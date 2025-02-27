@@ -1,0 +1,70 @@
+{
+    "Uefa fines FA and FAI after England and Republic of Ireland fans boo anthems - BBC Sport": {
+        "0": {
+            "text": "Uefa has fined the Football Association and the Football Association of Ireland after the national anthems were booed before the Republic of Ireland played England in the Nations League in September.\n\nEuropean football's governing body imposed a £10,500 fine (12,500 euros) on the Football Association (FA) following England fans' booing of Amhran na bhFiann at Aviva Stadium.\n\nThe Football Association of Ireland (FAI) received a fine of £8,400 (10,000 euros) after home supporters booed God Save The King.\n\nThe FA's punishment is greater because the England fans' booing was deemed a repeat offence.\n\nUefa imposed further punishment on the FAI, with a £7,800 (9,250 euros) fine for the lighting of flares and a £5,000 (6,000 euros) penalty for a pitch invasion by a spectator.\n\nThe FA was also fined £4,150 (5,000 euros) for a supporter coming on to the field of play.\n\nEngland won the September 7 match 2-0 with goals from Jack Grealish and Declan Rice.",
+            "BLEU": 1.0,
+            "ROUGE-1": 1.0,
+            "ROUGE-L": 1.0,
+            "METEOR": 0.9999999184137944,
+            "BERTScore Precision": 0.9999999403953552,
+            "BERTScore Recall": 0.9999999403953552,
+            "BERTScore F1": 0.9999999403953552,
+            "CHR-F": 1.0
+        },
+        "2": {
+            "text": "The Uefa has imposed a fine on the English Football Association and the Irish Football Association after the national anthems were booed before Ireland played England in the Nations League in September.\n\nThe European Football Federation has imposed a fine of £10,500 (€12,500) on the English Football Association (FA) after the English supporters booed Amhran na bhFiann at the Aviva Stadium.\n\nThe Irish Football Association (FAI) received a fine of £8,400 (€10,000) after the local supporters booed God Save The King.\n\nThe FA's punishment is more severe because the English supporters' boos were considered a repeated offense.\n\nUefa has imposed an additional penalty on the FAI, with a fine of £7,800 (€9,250) for the launch of fireworks and a penalty of £5,000 (€6,000) for a spectator who entered the pitch.\n\nThe FA was also fined £4,150 (€5,000) for a supporter who entered the playing field.\n\nEngland won the 7 September match 2-0 with goals from Jack Grealish and Declan Rice.",
+            "BLEU": 0.37485066056251526,
+            "ROUGE-1": 0.7836257219314575,
+            "ROUGE-L": 0.719298243522644,
+            "METEOR": 0.7167217656316159,
+            "BERTScore Precision": 0.9641284942626953,
+            "BERTScore Recall": 0.9638979434967041,
+            "BERTScore F1": 0.9640132188796997,
+            "CHR-F": 0.6497569450446465
+        },
+        "4": {
+            "text": "UEFA has imposed a fine on the English Football Association and the Irish Football Association after the national anthems were whistled before Ireland played England in the Nations League in September.\n\nThe European Football Association has fined the English Football Association (FA) £10,500 (€12,500) after English supporters whistled Amhran na bhFiann at the Aviva Stadium.\n\nThe Irish Football Association (FAI) received a fine of £8,400 (€10,000) after local supporters whistled God Save The King.\n\nThe FA's punishment is harsher because English supporters' whistles were considered a repeated offense.\n\nUEFA imposed an additional penalty on the FAI, with a fine of £7,800 (€9,250) for launching fireworks and a penalty of £5,000 (€6,000) for a spectator who entered the pitch.\n\nThe FA was also fined £4,150 (€5,000) for a supporter who entered the playing field.\n\nEngland won the September 7 match 2-0 with goals from Jack Grealish and Declan Rice.",
+            "BLEU": 0.37707191705703735,
+            "ROUGE-1": 0.7818182110786438,
+            "ROUGE-L": 0.678787887096405,
+            "METEOR": 0.6940123800042788,
+            "BERTScore Precision": 0.960898756980896,
+            "BERTScore Recall": 0.9557023048400879,
+            "BERTScore F1": 0.9582934975624084,
+            "CHR-F": 0.6409095394763075
+        },
+        "6": {
+            "text": "The UEFA imposed a fine on the English Football Association and the Irish Football Association after the national anthems were booed before Ireland played England in the Nations League in September.\n\nThe Union of European Football Associations imposed a fine of £10,500 (€12,500) on the English Football Association (FA) after English supporters booed Amhran na bhFiann at Aviva Stadium.\n\nThe Irish Football Association (FAI) received a fine of £8,400 (€10,000) after local supporters booed God Save The King.\n\nThe FA's punishment is harsher because the English supporters' booing was considered a repeated offense.\n\nThe UEFA imposed an additional penalty on the FAI, with a fine of £7,800 (€9,250) for launching fireworks and a penalty of £5,000 (€6,000) for a spectator who entered the field.\n\nThe FA was also docked £4,150 (€5,000) for a supporter who entered the playing field.\n\nEngland won the September 7 match 2-0 with goals from Jack Grealish and Declan Rice.",
+            "BLEU": 0.4048657715320587,
+            "ROUGE-1": 0.7916666865348816,
+            "ROUGE-L": 0.726190447807312,
+            "METEOR": 0.7238987453492305,
+            "BERTScore Precision": 0.9638814926147461,
+            "BERTScore Recall": 0.9626724720001221,
+            "BERTScore F1": 0.9632765650749207,
+            "CHR-F": 0.6602521320231695
+        },
+        "8": {
+            "text": "The UEFA national football teams federation has fined the English Football Association and the Football Association of Ireland after their national anthems were booed before Ireland played England in the Nations League in September.\n\nThe Union of European Football Associations has fined the English Football Association (FA) £10,500 (€12,500) after English supporters booed Amhran na bhFiann at the Aviva Stadium.\n\nThe Football Association of Ireland (FAI) received a fine of £8,400 (€10,000) after local supporters booed God Save The King.\n\nThe FA's punishment is more severe as English supporters' booing was considered a repeated offense.\n\nUEFA has imposed an additional penalty on the FAI, with a fine of £7,800 (€9,250) for launching fireworks and a penalty of £5,000 (€6,000) for a spectator who entered the pitch.\n\nThe FA was also charged £4,150 (€5,000) for a supporter who entered the playing field.\n\nEngland won the September 7 match 2-0 with goals from Jack Grealish and Declan Rice.",
+            "BLEU": 0.44124743342399597,
+            "ROUGE-1": 0.7869822382926941,
+            "ROUGE-L": 0.6982248425483704,
+            "METEOR": 0.723106300088859,
+            "BERTScore Precision": 0.961976945400238,
+            "BERTScore Recall": 0.963723361492157,
+            "BERTScore F1": 0.9628493785858154,
+            "CHR-F": 0.6587176283220332
+        },
+        "10": {
+            "text": "The UEFA national football teams federation has sanctioned the English Football Association and the Football Association of Ireland after their national anthems were booed before Ireland played England in the Nations League in September.\n\nThe Union of European Football Associations (UEFA) sanctioned the English Football Association (FA) £10,500 (€12,500) after English supporters booed Amhran na bhFiann at Aviva Stadium.\n\nThe Football Association of Ireland (FAI) received a fine of £8,400 (€10,000) after local supporters booed God Save The King.\n\nThe FA's sanction is more severe as the English supporters' booing was considered a repeated infringement.\n\nUEFA imposed an additional penalty on the FAI, with a fine of £7,800 (€9,250) for launching fireworks and a penalty of £5,000 (€6,000) for a spectator who entered the field.\n\nThe FA was also responsible for £4,150 (€5,000) for a supporter who entered the playing field.\n\nEngland won the match on 7 September 2-0 with goals from Jack Grealish and Declan Rice.",
+            "BLEU": 0.4055153429508209,
+            "ROUGE-1": 0.7669616341590881,
+            "ROUGE-L": 0.6784660816192627,
+            "METEOR": 0.7213041916342127,
+            "BERTScore Precision": 0.9564323425292969,
+            "BERTScore Recall": 0.9609951972961426,
+            "BERTScore F1": 0.9587083458900452,
+            "CHR-F": 0.6214727733829476
+        }
+    }
+}

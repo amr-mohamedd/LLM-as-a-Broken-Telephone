@@ -1,0 +1,1249 @@
+{
+    "Love's Labours Lost": {
+        "0": {
+            "text": "Holofernes and Nathaniel discuss Don Armado, with whom Nathaniel has been conversing. They mock his inferior intellect, criticizing his pronunciation and saying that they abhor 'such rackers of orthography' . Armado, Moth, and Costard enter; Armado tells the learned men that the King has asked him to prepare 'some delightful ostentation, or show, or pageant, or antick or firework'  to entertain the Princess and her party. He asks Holofernes and Nathaniel for their help in planning this entertainment, and Holofernes suggests that they present a show of the Nine Worthies. The men discuss who will play the roles of the Worthies, with Holofernes saying that he will play three of the roles himself. They then go off to plan their show.",
+            "factscore": 0.9375,
+            "factscore_init_score": 0.9375,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 32.0
+        },
+        "2": {
+            "text": "Holofernes and Nathaniel were discussing Don Quixote, with whom Nathaniel had recently conversed. They mocked his intellect, criticized his pronunciation, saying they detested 'that Orthography nonsenseness'.\n\nDon Quixote, Mosca and Sancho Panza entered, and Don Quixote told the scholars that the king had asked him to prepare a 'charming performance, show, procession, acrobatics or fireworks' to entertain the princess and her guests.\n\nHe asked Holofernes and Nathaniel if they could help him plan the entertainment, and Holofernes suggested they present a show of nine worthies. \n\nThey discussed who would play the role of the sage, with Holofernes saying he would play the triangle. They then left to plan the performance.",
+            "factscore": 0.5357142857142857,
+            "factscore_init_score": 0.5357142857142857,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 28.0
+        },
+        "4": {
+            "text": "Don Quixote and Sancho Panza entered, and Don Quixote told the scholars that the king requested him to prepare a 'captivating spectacle, entertainment, parade, acrobatics, or fireworks' to entertain the princess and her guests.\n\nHe asked Holoferns and Nathaniel if they could help him plan the entertainment, and Holoferns suggested presenting the performance of the Nine Wise Men.\n\nThey discussed who would play the wise men, and Holoferns said he would play the triangle.  After that, they left to plan the performance.",
+            "factscore": 0.3181818181818182,
+            "factscore_init_score": 0.3181818181818182,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 22.0
+        },
+        "6": {
+            "text": "Don Quixote and Sancho Panza entered the room, Don Quixote told the scholars that the king had asked him to prepare a 'pleasant show, entertainment, procession, flying men or fireworks display' to welcome the princess and her guests.\n\nHe asked for the help of Holophernes and Nastagio to plan the entertainment, Holophernes suggested performing 'The Nine Worthies'.\n\nThey discussed who would play the wise men, Holophernes said he would play three triangles of iron. Then they left to plan the show.",
+            "factscore": 0.3333333333333333,
+            "factscore_init_score": 0.3333333333333333,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 24.0
+        },
+        "8": {
+            "text": "Don Quixote and Sancho Panza entered the room, and Don Quixote explained to the scholars that the king had requested him to arrange a 'joyful performance, entertainment, procession, aerial performance, or fireworks display' for the princess and her guests.\n\nHe asked for the help of Hollenfensis and Nitro to plan the entertainment, and Hollenfensis suggested a performance of 'The Nine Worthies.' \n\nThey discussed who would play the wise men, and Hollenfensis said he would play the iron triangle. They then left to plan the performance.",
+            "factscore": 0.4583333333333333,
+            "factscore_init_score": 0.4583333333333333,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 24.0
+        },
+        "10": {
+            "text": "Father Dominic and Pancha Hill entered the room, Father Dominic explained to the scholars that the king had requested that he arrange for the princess and her guests a 'joyful performance, entertainment, procession, aerial performance, or fireworks display.'\n\nHe asked Hollenfens and Nittel to help him plan the entertainment, they said that Hollenfens suggested performing 'The Nine Wise Men.'\n\nThey discussed who would play the wise men, Hollenfens said he would play the Three Musketeers. Then, they left to plan the performance.",
+            "factscore": 0.3684210526315789,
+            "factscore_init_score": 0.3684210526315789,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 19.0
+        },
+        "13": {
+            "text": "Father Francis and Panch entered the room, Father Francis explained to the scholars that the king had requested that he arrange for the princess and her guests a 'joyful performance, entertainment, procession, aerial performance or fireworks display'.\n\nHe asked Hornsby and Nettle to help him plan the entertainment, saying that Hornsby had suggested a 'performance by nine wise men'.\n\nThey discussed who would play the wise men, Hornsby said he would play three warriors. Then, they left to plan the performance.",
+            "factscore": 0.09523809523809523,
+            "factscore_init_score": 0.09523809523809523,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 21.0
+        },
+        "16": {
+            "text": "Father Francis and Pancho entered the room. Father Francis explained to the scholars that the king had requested that he arrange a 'joyful performance, entertainment, procession, aerial performance, or fireworks display' for the princess and her guests.\n\nHe asked Hornsby and Niter to help him plan the entertainment, saying that Hornsby had suggested a performance of nine wise men. They discussed who would play the wise men, with Hornsby saying that he would play three warriors. Then, they left to plan the performance.",
+            "factscore": 0.36363636363636365,
+            "factscore_init_score": 0.36363636363636365,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 22.0
+        },
+        "20": {
+            "text": "Father Francis and Panch entered the room. Father Francis ordered Scholar Wang to arrange for the princess and her guest a 'joyful performance, entertainment, procession, aerial performance or fireworks display.' He asked Hosenpfeffer and Noot to help him plan the entertainment, saying Hosenpfeffer suggested a performance of 'the Nine Worthies.' The three discussed who would perform the Worthies, with Hosenpfeffer saying he would play three knights. They eventually left to plan the performance.",
+            "factscore": 0.32,
+            "factscore_init_score": 0.32,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 25.0
+        },
+        "25": {
+            "text": "Father Francis and Baron entered the room. Father Francis instructed the scholars to prepare for the princess and her guests 'a merry entertainment, a show, a procession, aerial performances, or a fireworks display.' He asked Hopaville and Nott to assist him in planning the entertainment, and pointed out that Hopaville had previously suggested a 'Nine Worthies' performance. The three men discussed who would play the Nine Worthies, with Hopaville saying he would play three of the knights. Finally, the three men left to plan the performance.",
+            "factscore": 0.41379310344827586,
+            "factscore_init_score": 0.41379310344827586,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 29.0
+        },
+        "30": {
+            "text": "Father Francis and Baron entered the room. Father Francis instructed the scholars to prepare a celebration, entertainment, procession, aerial performance, or fire dance for the princess and her guests. He requested Hopp (a jester's nickname), not for his assistance, but for his entertainment, pointing out that Hopp had previously suggested a 'Nine Worthies' performance. The three discussed who would perform the Nine Worthies, Hopp saying he would play three knights. Finally, the three left to plan the performance.",
+            "factscore": 0.21428571428571427,
+            "factscore_init_score": 0.21428571428571427,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 28.0
+        },
+        "40": {
+            "text": "Francis' father and Barlow entered the room. Francis' father ordered the scholars to prepare a celebration, entertainment, procession, aerial performance, or fireworks for the princess and her guests.\n\nHe also asked Hope (the stage name of the comedian) not only to provide entertainment but to prove that Hope had previously suggested the performance of 'The Nine Worthies'.\n\nThe three of them discussed who would perform 'The Nine Worthies', Hope said he would play three of the knights.\n\nFinally, the three of them left the room to start preparing the performance.",
+            "factscore": 0.35294117647058826,
+            "factscore_init_score": 0.35294117647058826,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        },
+        "50": {
+            "text": "Francis's father and Barul entered the room. Francis's father ordered the scholars to prepare a celebration, entertainment, procession, aerial performance, or fireworks for the princess and her guests.\n\nHe also asked Hop (the stage name of the comedian) not only to provide entertainment, but also to prove that Hop had previously suggested performing 'The Nine Wise Men'.\n\nThe three discussed who would perform 'The Nine Wise Men', Hop said he would play three knights.\n\nFinally, the three left the room to prepare for the performance.",
+            "factscore": 0.2727272727272727,
+            "factscore_init_score": 0.2727272727272727,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 33.0
+        },
+        "65": {
+            "text": "Francis's father and Babur entered the room. Francis's father ordered the scholars to prepare a celebration for the princess and her guests, including performances, processions, aerial performances or fireworks.\n\nHe also requested that Hopp (a stage name of a comedian) not only provide the performance, but also prove that Hopp had previously suggested the performance of 'Nine Heroes'.\n\nThe three of them discussed who would perform 'Nine Heroes', with Hopp saying he would play three knights.\n\nFinally, the three of them left the room to start preparing the performance.",
+            "factscore": 0.4117647058823529,
+            "factscore_init_score": 0.4117647058823529,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        },
+        "80": {
+            "text": "Francis's father and Babur entered the room. Francis's father ordered the scholars to prepare a celebration for the princess and her guests, including performances, parades, aerial performances, or fireworks.\n\nHe also requested that Hobie (Hobie being the stage name of the comedian) not only provide performances but also prove that Hobie had previously suggested a program featuring 'Nine Wise Men.'\n\nThe three of them discussed who would play 'Nine Wise Men,' with Hobie saying he would play three knights.\n\nFinally, the three of them left the room to prepare for the performance.",
+            "factscore": 0.2962962962962963,
+            "factscore_init_score": 0.2962962962962963,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 27.0
+        },
+        "100": {
+            "text": "Francis's father and Babur entered the room. Francis's father ordered scholars to prepare a celebration for the princess and her guests, including performances, parades, aerial performances, or rocket performances.\n\nHe also requested that Hors (Hors is the pen name of the comedian), in addition to providing performances, arrange the script of the script previously proposed by Hors, The Nine Wise Men.\n\nThe three discussed who would perform in The Nine Wise Men, with Hors saying he would play the role of three knights.\n\nFinally, the three left the room to prepare for the performance.",
+            "factscore": 0.25806451612903225,
+            "factscore_init_score": 0.25806451612903225,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 31.0
+        }
+    },
+    "My Antonia": {
+        "0": {
+            "text": "Jim and the Harling children feel the happiest and most content that spring just playing in the garden. They do not yet know that the summer will change everything. In the beginning of summer, some Italians come into town and set up a dancing pavilion in a vacant lot. They begin giving dancing lessons to children, and people start to gather and congregate around the lot. Now there is something for people to do and somewhere for them to socialize. Dancing becomes a city-wide craze, and every Saturday night there is a late-night dance. Jim goes all the time, as do many girls and boys from the country. At this point, Antonia, Lena, and Tiny become known as 'the hired girls' and are always at the dances too.",
+            "factscore": 0.9705882352941176,
+            "factscore_init_score": 0.9705882352941176,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        },
+        "2": {
+            "text": "James and Harrington's children felt the happiest and most satisfied while playing in the garden during spring, but they didn't know how summer would change everything.\n\nAt the beginning of summer, some Italians came to the small town and set up a dance hall on an empty square. The Italians began teaching dance lessons to the children, and people started gathering around the square. Now, people had something to do and a place for socializing. Dance became the town's latest craze, with parties held every Saturday night. James always attended, and every Saturday night, he would bring many village girls and boys.\n\nAt that time, Antonia, Lena, and Tina were called 'hired girls' and always appeared at the dance.",
+            "factscore": 0.7222222222222222,
+            "factscore_init_score": 0.7222222222222222,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        },
+        "4": {
+            "text": "James and Harlington's children were the happiest and most satisfied when playing in the garden in spring, but they had no idea how summer would change everything.\n\nAt the beginning of summer, some Italians came to the town, rented a vacant square, and built a dance hall. The Italians started teaching the children how to dance, and people began to gather around the square. Now, people had a place to do things and socialize. Dancing became the latest trend in town, with dance parties held every Saturday night. James always attended, and every Saturday night, he would bring many girls and boys from the village.\n\nAt that time, Antonia, Lena, and Tina were known as 'hired girls,' and they always appeared at the dance parties.",
+            "factscore": 0.7631578947368421,
+            "factscore_init_score": 0.7631578947368421,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "6": {
+            "text": "James and Harrington's children are the happiest and most content when playing in the garden in the spring, but they have no idea how summer will change everything.\n\nIn the beginning of summer, a few Italians came to this small town, rented an empty square, and built a dance hall. The Italians started teaching the children how to dance, and people began gathering around the square. Now, people have a place for socializing and getting things done. Dancing became the latest trend in town, with a dance party held every Saturday night. James would attend every time, and on Saturday nights, he would bring many girls and boys from the village.\n\nAt that time, Antonia, Lena, and Tina were called the 'hired girls,' and they always appeared at the dance parties.",
+            "factscore": 0.7368421052631579,
+            "factscore_init_score": 0.7368421052631579,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "8": {
+            "text": "James and Harlington's children are the happiest and most contented when they are playing in the spring, but they have no idea how everything will change with the summer.\n\nAt the beginning of summer, some Italians arrived in this small town, rented a vacant lot, and built a dance hall. The Italians began teaching the children how to dance, and people started gathering around the square. Now, people have a place for socializing and getting things done. Dancing became the latest trend in town, with dance parties held every Saturday night. James always attends, bringing many girls and boys from the surrounding villages on Saturday nights.\n\nAt that time, Antonia, Lena, and Tina were known as the 'hired girls,' always appearing at the dance parties.",
+            "factscore": 0.6571428571428571,
+            "factscore_init_score": 0.6571428571428571,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 35.0
+        },
+        "10": {
+            "text": "James and Harlington's children were at their happiest and most content in the spring, unaware of how the summer would change everything.\n\nAs summer began, some Italians arrived in the small town, renting a plot of land to build a dance hall. The Italians started teaching the children how to dance, and people began gathering around the square. Now, they had a place for socializing and conducting business. Dancing became the latest trend in town, with a dance party held every Saturday night. James always attended, bringing many girls and boys from the surrounding villages to join in on the Saturday night dance parties.\n\nAt the time, Antonia, Lena, and Tina were known as the 'hired girls,' always appearing at the dance parties.",
+            "factscore": 0.6842105263157895,
+            "factscore_init_score": 0.6842105263157895,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "13": {
+            "text": "James and Harrington's children were the happiest and most content in the spring, completely unaware of how summer would change everything.\n\nAs summer began, some Italians arrived in the town, rented a plot of land and planned to build a dance hall. The Italians started teaching the children how to dance, and people began gathering in the square. They now had a place for social and commercial activities. Dancing became the latest craze in the town, with a dance party held every Saturday night. James would always attend, bringing many girls and boys from the surrounding villages to the Saturday night dance parties.\n\nAt the time, Antonia, Lena, and Tina were known as 'hired girls,' always appearing at the dance parties.",
+            "factscore": 0.7777777777777778,
+            "factscore_init_score": 0.7777777777777778,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        },
+        "16": {
+            "text": "James and Harrington's children were the happiest and most content in the spring, completely unaware of how summer would change everything.\n\nWhen summer began, some Italians arrived in the town, rented a piece of land and planned to build a dance hall. The Italians started teaching the children how to dance, and people began to gather in the square. They now had a place for social and commercial activities. Dancing became the latest trend in the town, with a dance party every Saturday night. James always attended the dance parties, accompanied by many girls and boys from the surrounding villages.\n\nAt the time, Antonia, Lena, and Tina were known as 'hired girls,' always appearing at the dance parties.",
+            "factscore": 0.7631578947368421,
+            "factscore_init_score": 0.7631578947368421,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "20": {
+            "text": "James and Harlington's children were the happiest and most contented in the spring, completely unaware of how everything would change with the summer.\n\nWhen summer began, some Italians arrived in town, rented a plot of land and planned to build a dance hall. The Italians started teaching the children how to dance, and people began gathering in the square. They now had a place for social and commercial activities. Dancing became the latest trend in town, with dance parties held every Saturday night. James always attended the dance parties, accompanied by many girls and boys from surrounding villages.\n\nAt that time, Antonia, Lena, and Tina were known as 'hired girls,' always appearing at the dance parties.",
+            "factscore": 0.7948717948717948,
+            "factscore_init_score": 0.7948717948717948,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "25": {
+            "text": "James and Harlington's children were the happiest and most content in the spring, completely unaware of how everything would change with the arrival of summer.\n\nWhen summer began, some Italians came to the town, rented a plot of land, and planned to build a dance hall. The Italians started teaching the children how to dance, and the townspeople began gathering in the square. They now had a place for social and commercial activities. Dancing became the latest trend in town, with dance parties held every Saturday night. James was always at the dance parties, accompanying many girls and boys from the surrounding villages.\n\nBy this time, Antonia, Lena, and Tina were known as 'hired girls,' always present at the dance parties.",
+            "factscore": 0.7837837837837838,
+            "factscore_init_score": 0.7837837837837838,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "30": {
+            "text": "James and Harlington's children were the happiest and most content in the spring, completely unaware of how the arrival of summer would change everything.\n\nWhen summer began, some Italians came to the town, rented a plot of land, and planned to build a dance hall. The Italians started teaching the children how to dance, and the townsfolk began gathering in the square. They now had a place for social and commercial activities. Dancing became the latest trend in town, with dance parties held every Saturday night. James always attended the dance parties, accompanied by many girls and boys from nearby villages.\n\nAt this time, Antonia, Lena, and Tina became the 'hired girls' of the dance hall, always appearing on the dance hall stage.",
+            "factscore": 0.7,
+            "factscore_init_score": 0.7,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "40": {
+            "text": "James and Harlington's children were the happiest and most content in the spring, completely unaware of how everything would change with the arrival of summer.\n\nWhen summer began, some Italians came to the town, rented a plot of land, and built a dance hall. The Italians started teaching the children how to dance, and the townspeople began gathering in the square. They now had a place for social and commercial activities. Dancing became the latest fashion in town, with dance parties every Saturday night. James would attend every dance party, accompanied by many girls and boys from nearby villages.\n\nBy this time, Antonia, Lena, and Tina had become the 'staff' of the dance hall, always appearing on the dance hall stage.",
+            "factscore": 0.6388888888888888,
+            "factscore_init_score": 0.6388888888888888,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        },
+        "50": {
+            "text": "James and Hargraves' children were the happiest and most content in the spring, completely unaware of the changes that summer would bring.\n\nAs summer began, some Italians arrived in town, rented a plot of land, and built a dance hall. The Italians started teaching the children how to dance, and the townsfolk began gathering in the square. They now had a place for social gatherings and business activities. Dancing became the latest craze in town, with a dance party held every Saturday night. James would attend the dance parties every time, accompanied by many boys and girls from nearby villages.\n\nBy this time, Antonia, Lena, and Tina had become the 'staff' of the dance hall, always appearing on the dance hall stage.",
+            "factscore": 0.6216216216216216,
+            "factscore_init_score": 0.6216216216216216,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "65": {
+            "text": "James and Hargreaves' children were the happiest and most content in the spring, completely unaware of the changes that summer would bring.\n\nWhen summer began, some Italians arrived in the town, rented a piece of land and built a dance hall. The Italians started teaching the children how to dance, and the townspeople began gathering in the square. They now had a place for social gatherings and business activities. Dancing became the latest trend in town, with a dance party held every Saturday night. James always attended the dance parties, accompanied by many boys and girls from nearby villages.\n\nAt that time, Antonia, Lena, and Tina had already become the 'staff' of the dance hall, always appearing on the dance hall stage.",
+            "factscore": 0.5581395348837209,
+            "factscore_init_score": 0.5581395348837209,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "80": {
+            "text": "James and Hagg's children were the happiest and most content in the spring, completely unaware of what changes summer would bring.\n\nAs summer began, some Italians arrived in town, rented a plot of land, and built a dance hall. The Italians started teaching the children how to dance, and the townspeople began to gather in the square. They now had a social gathering place and a commercial venue. Dancing became the latest trend in town, with dance parties held every Saturday night. James would always be present at the dance parties, accompanied by many boys and girls from nearby villages.\n\nAt that time, Antonia, Lena, and Tina had already become the 'staff' of the dance hall, always appearing on the dance hall stage.",
+            "factscore": 0.6341463414634146,
+            "factscore_init_score": 0.6341463414634146,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "100": {
+            "text": "James and Haggriff's children were the happiest and most content in the spring, completely unaware of the changes that summer would bring.\n\nAs summer began, some Italians arrived in the town, rented a plot of land, and built a dance hall. The Italians started teaching the children how to dance, and the townspeople began gathering in the square. They now had a social gathering place and a commercial center. Dancing became the latest trend in town, with a dance party held every Saturday. James was always in attendance at the dance parties, accompanied by many boys and girls from nearby villages.\n\nAt that time, Antonia, Lena, and Tina had become the 'staff' of the dance hall, always appearing on the dance hall stage.",
+            "factscore": 0.5714285714285714,
+            "factscore_init_score": 0.5714285714285714,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        }
+    },
+    "Pride and Prejudice": {
+        "0": {
+            "text": "Elizabeth reads through Darcy's letter with a mixture of emotions. When she first reads Darcy's explanation of his conduct with Bingley and Jane, she dismisses his explanation of his concern about Jane's indifference as false, and believes he acted solely because of her family. However, when she begins reading his explanation of the dealings with Wickham, she begins to read more clearly. She soon begins to realize that she had not known anything of Wickham before the night when he told her of he and Darcy, and she wonders why she didn't realize his impropriety at speaking of such things to a stranger. As she continues to reread and think, she realizes that she had been 'blind, partial, prejudiced, absurd,' and that she believes Darcy's version of what happened. She then rereads the section about Jane and Bingley, and sees that she cannot deny the justice of his description of Jane's seeming indifference after all. After two hours of wandering in the park she returns home to be told that both Fitzwilliam and Darcy had come to say their good-byes",
+            "factscore": 0.8809523809523809,
+            "factscore_init_score": 0.8809523809523809,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        },
+        "2": {
+            "text": "When Elizabeth read Darcy's letter, her emotions were in turmoil. At first, when she read his explanation of himself and Jane, she thought his concern that she was indifferent to Jane was unfounded, and that his behavior was entirely due to her family. However, as she began to read his explanation of Wickham, she read on with increasing clarity. She soon realized that she had known nothing about Wickham until that night when he told her about his connection to Darcy, and she began to wonder why she had not noticed his inappropriateness in discussing these matters. As she continued to read and think, she realized that her previous views were 'blind, biased, partial, and absurd,' and she believed Darcy's version. Then, she re-read the parts about Jane and Bingley, and saw Darcy's seeming indifference to Jane as justice. After a two-hour walk, she returned home, only to be told that the Fitzwilliam and Darcy had already visited, and had taken their leave.",
+            "factscore": 0.85,
+            "factscore_init_score": 0.85,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "4": {
+            "text": "After reading Darcy's letter, Elizabeth was in a state of great turmoil. Initially, when she read Darcy's explanation about himself and Jane, she thought that his concerns about her being indifferent to Jane were unfounded, and that his behavior was entirely due to her family. However, as she continued to read Darcy's explanation about Wickham, her understanding became clearer and clearer. She soon realized that she had known nothing about Wickham until he told her about his connection to Darcy on that night, and she began to ponder why she had not noticed the inappropriateness of his behavior when discussing these matters. Continuing to read and think, she realized that her previous views were 'blind, biased, one-sided, and absurd', and she believed Darcy's version. Then, she read that part about Jane and Bingley again, and saw that Darcy's seeming indifference to Jane was actually reasonable. Two hours later, when she returned home, she found that Fitzwilliam and Darcy had already visited and left.",
+            "factscore": 0.8604651162790697,
+            "factscore_init_score": 0.8604651162790697,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "6": {
+            "text": "When she finished reading Darcy's letter, Elizabeth was plunged into extreme confusion. Initially, when she read Darcy's explanation of himself and Jane, she thought his concern for her indifference to Jane was unfounded and that his behavior was entirely due to her family. However, as she continued reading Darcy's explanation of Wickham, her understanding became increasingly clear. Soon, she realized she knew nothing about Wickham until he told her about his relationship with Darcy on that night, and she began to think about why she hadn't noticed his inappropriate behavior when discussing these matters. Continuing to read and think, she realized her initial premise was 'blind, biased, one-sided, and absurd,' and she began to believe Darcy's version. Then, she read the part about Jane and Bingley again, and seeing Darcy's behavior towards Jane seemed cold, but was actually reasonable. Two hours later, when she returned home, she found that Fitzwilliam and Darcy had already visited and left.",
+            "factscore": 0.8292682926829268,
+            "factscore_init_score": 0.8292682926829268,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "8": {
+            "text": "Upon reading Darcy's letter, Elizabeth found herself in a state of utter confusion. Initially, when she read Darcy's explanation of his relationship with her and Jane, she thought his concerns about his lack of interest in her were unreasonable, and that his behavior was entirely due to her family. However, as she continued to read Darcy's explanation of Wickham, her understanding became increasingly clear. Soon, she realized she knew almost nothing about Wickham until he told her about his relationship with Darcy on that evening, and she began to wonder why she hadn't noticed his inappropriate behavior when he discussed the matter. Continuing to read and think, she realized that her initial assumptions were 'blind, biased, one-sided, and absurd,' and she began to believe Darcy's version. Then, she read the part about Jane and Bingley, which seemed to show Darcy as being cold towards Jane, but was actually reasonable. Two hours later, when she returned home, she found that Fitzwilliam and Darcy had already been and gone.",
+            "factscore": 0.8292682926829268,
+            "factscore_init_score": 0.8292682926829268,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "10": {
+            "text": "After reading Darcy's letters, Elizabeth fell into a state of utmost confusion. Initially, when she read Darcy's explanation of his feelings towards her and Jane, she thought her concerns about her lack of interest in him were unfounded and believed his behavior was entirely due to her family. However, as she continued reading Darcy's explanation of Wickham, her understanding became increasingly clear. Soon, she realized she knew nothing about Wickham until he revealed his relationship with Darcy on that night, which made her begin to wonder why she had not noticed his improper behavior when discussing the issue. Continuing to read and think, she considered her initial assumptions to be 'blind, biased, one-sided, and absurd,' and began to believe Darcy's version. Then, she read the parts about Jane and Bingley, which seemed to show Darcy's indifference to Jane, but was actually reasonable. Two hours later, when she returned home, she found that Fitzwilliam and Darcy had already visited and left.",
+            "factscore": 0.84,
+            "factscore_init_score": 0.84,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 50.0
+        },
+        "13": {
+            "text": "After reading Darcy's letters, Elizabeth found herself in a state of confusion. Initially, when she read Darcy's feelings towards her and Jane, she thought her concern about his lack of interest in her was unfounded, believing his behavior was entirely due to her family. However, as she continued to read Darcy's explanation for Wickham, her understanding became increasingly clear. Soon, she discovered that she knew nothing about Wickham until that night when he revealed his connection to Darcy, causing her to begin questioning why she hadn't noticed his inappropriate behavior when he was discussing the subject. Continuing to read and think, she deemed her initial assumption 'blind, biased, one-sided, and absurd,' and began to believe Darcy's version. Then, she read the part about Jane and Bingley, which appeared to show Darcy as cold towards Jane, but was actually reasonable. Two hours later, when she returned home, she found that Fitzwilliam and Darcy had already visited.",
+            "factscore": 0.7857142857142857,
+            "factscore_init_score": 0.7857142857142857,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        },
+        "16": {
+            "text": "After reading Darcy's letter, Elizabeth was thrown into confusion. Initially, when she read Darcy's opinions about her and Jane, she thought her concerns about his aloofness were unfounded and that his behavior was entirely due to her family. However, as she continued reading Darcy's explanation of Wickham, her understanding became increasingly clear. Soon, she realized that she knew nothing about Wickham until that night when he revealed his connection to Darcy, which made her start questioning why she hadn't noticed his inappropriate behavior when he discussed the topic. Continuing to read and think, she found that her initial assumption was 'blind, biased, one-sided and absurd', and began to believe Darcy's version. Then, she read the part about Jane and Bingley, which seemed to show Darcy as being cold, but was actually reasonable. Two hours later, when she returned home, she found that Darcy and Fitzwilliam had already visited.",
+            "factscore": 0.7674418604651163,
+            "factscore_init_score": 0.7674418604651163,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "20": {
+            "text": "After reading Darcy's letter, Elizabeth found herself in a state of confusion. Initially, when she read Darcy's views on her and Jane, she thought that her conservative concerns about him were unfounded and that his behavior was entirely due to her family. However, as she continued to read Darcy's explanation about Wickham, her understanding became increasingly clear. Soon, she realized she knew nothing about Wickham until that evening when he revealed his connection with Darcy, and she began to suspect why she had not noticed his improper behavior when discussing the topic. As she continued to read and think, she discovered that her initial assumptions were 'blind, biased, one-sided, and absurd,' and began to believe Darcy's version. Then, she read the part about Jane and Bingley, which seemed to suggest that Darcy was a cold person, but was actually reasonable. Two hours later, when she returned home, she found that Darcy and Fitzwilliam had already arrived.",
+            "factscore": 0.7560975609756098,
+            "factscore_init_score": 0.7560975609756098,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "25": {
+            "text": "After reading Mr. Darcy's letters, Elizabeth found herself in a state of confusion. Initially, when she read Mr. Darcy's assessment of her and Jane, she thought his conservative views were completely unfounded, and his behavior was entirely due to her family background. However, as she continued reading Mr. Darcy's explanation of Wickham, her understanding gradually became clearer. Soon, she realized she knew nothing about Wickham until that night when he revealed his relationship with Mr. Darcy, and she began to wonder why she hadn't noticed his inappropriate behavior when they were discussing the topic. As she continued reading and thinking, she discovered that her initial assumptions were 'blind, biased, one-sided, and absurd,' and she began to believe Mr. Darcy's version. Then, she read the part about Jane and Bingley, which seemed to show that Mr. Darcy was heartless, but was actually reasonable. Two hours later, when she returned home, she found that Mr. Darcy and Colonel Fitzwilliam had already arrived.",
+            "factscore": 0.6739130434782609,
+            "factscore_init_score": 0.6739130434782609,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 46.0
+        },
+        "30": {
+            "text": "After reading Mr. Darcy's letter, Elizabeth found herself in a state of confusion. At first, while reading his opinions on her and Jane, she thought his conservative views were completely unfounded and his actions were solely determined by her family background. However, as she continued to read his explanation of Wickham, her understanding gradually became clearer. Soon, she discovered she knew nothing about Wickham until that evening when he revealed his connection to Mr. Darcy, and she began to wonder why she hadn't noticed the inappropriateness in his behavior when discussing the topic. After further reading and reflection, she found her initial assumption to be 'blind, biased, one-sided, and absurd,' and she began to believe Mr. Darcy's version. Then, she read the part about Jane and Bingley, which seemed to portray Mr. Darcy as an unfeeling person, but in fact, he was reasonable. Two hours later, when she returned home, she found that Mr. Darcy and Colonel Fitzwilliam had already arrived.",
+            "factscore": 0.85,
+            "factscore_init_score": 0.85,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "40": {
+            "text": "After finishing Mr. Darcy's letter, Elizabeth was in a state of confusion. Initially, she thought Mr. Darcy's conservative views and his opinions about Jane were utterly ridiculous and laughable, and his actions were completely dictated by his social status. However, as she continued reading Mr. Darcy's explanation of Wickham, her understanding gradually became clearer. Soon, she realized she knew nothing about Wickham until the night Darcy's relationship with Wickham was exposed, and she began to wonder why she hadn't noticed his inappropriate behavior when discussing the topic. Through further reading and reflection, she found that her initial assumptions were 'blind, biased, one-sided, and absurd,' and she began to believe Darcy's version. Then, she read the part about Jane and Bingley, which seemed to portray Darcy as a heartless man, but in reality, he was a rational man. Two hours later, she returned home to find that Mr. Darcy and General Fitzwilliam had already arrived.",
+            "factscore": 0.7674418604651163,
+            "factscore_init_score": 0.7674418604651163,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "50": {
+            "text": "After reading Mr. Darcy's letters, Elizabeth's mind was filled with questions. Initially, she thought Mr. Darcy's conservative views and his opinion of Jane were absurd and laughable, and that his behavior was completely influenced by his social status. However, as she continued reading Mr. Darcy's explanation of Wickham, her understanding gradually became clearer. Soon, she realized she knew nothing about Wickham until the evening when Wickham's relationship with Mr. Darcy was exposed, and she began to wonder why she had not noticed his inappropriate behavior when discussing the topic. Through further reading and reflection, she found her initial assumptions to be 'blind, biased, one-sided, and absurd,' and she began to believe Mr. Darcy's version. Then, she read the part about Jane and Bingley, thinking Mr. Darcy was like a cold-blooded person, but in fact, he was rational. Two hours later, she returned home to find that Mr. Darcy and Colonel Fitzwilliam had already arrived.",
+            "factscore": 0.7021276595744681,
+            "factscore_init_score": 0.7021276595744681,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 47.0
+        },
+        "65": {
+            "text": "After reading Mr. Darcy's letter, Elizabeth's mind was filled with doubts. Initially, she thought Mr. Darcy's conservative views and his comments on Austen were laughable, and she was convinced that his actions were entirely influenced by his social status. However, as she continued to read Mr. Darcy's interpretation of Wickham, her understanding gradually became clearer. Soon, she realized that she knew nothing about Wickham until that night when Wickham's relationship with Mr. Darcy was exposed, and she began to reflect on why she had not noticed his improper behavior. Through further reading and reflection, she discovered that her initial assumptions were 'blind, biased, one-sided, absurd,' and she began to believe Mr. Darcy's version. Then, she read the part about Austen and Bingley, and she thought Mr. Darcy was cold-blooded, but in fact, he was rational. Two hours later, when she returned home, she found that Mr. Darcy and General Fitzwilliam had already arrived.",
+            "factscore": 0.75,
+            "factscore_init_score": 0.75,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "80": {
+            "text": "After finishing Mr. Darcy's letter, Elizabeth's mind was filled with questions. Initially, she found Mr. Darcy's conservative views and his comments on Austen quite amusing, thinking that his behavior was entirely influenced by his social status. However, as she continued reading Mr. Darcy's explanation of Wickham, her understanding became clearer. She soon realized that she knew almost nothing about Wickham. It wasn't until the evening, when Wickham's relationship with Mr. Darcy was revealed, that she began to reflect on why she hadn't noticed his improper behavior. Through further reading and reflection, she discovered that her initial assumptions were 'blind, biased, one-sided, and absurd,' and began to believe Mr. Darcy's version. Then, she read the part about Austen and Denny, and found that Mr. Darcy was cold-blooded, but actually rational. Two hours later, she returned home to find that Mr. Darcy and Colonel Fitzwilliam had already arrived.",
+            "factscore": 0.7115384615384616,
+            "factscore_init_score": 0.7115384615384616,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 52.0
+        },
+        "100": {
+            "text": "After finishing Mr. Darcy's letter, Elizabeth's mind was filled with questions. Initially, she was fascinated by Mr. Darcy's conservative views and his comments on Austen, believing his actions to be entirely influenced by his social status. However, as she continued reading Mr. Darcy's explanation of Wickham, her understanding became clearer. Soon, she realized that she knew almost nothing about Wickham. It wasn't until the evening, when Wickham's relationship with Darcy was revealed, that she began to reflect on why she had failed to notice his improper behavior. Through further reading and reflection, she discovered that her initial assumptions were 'blind, biased, one-sided, absurd,' and began to believe Darcy's version. Then, she read the part about Austen and Denny, and discovered that despite Darcy's seeming coldness, he was actually rational. Two hours later, when she returned home, she found that Mr. Darcy and Colonel Fitzwilliam were already there.",
+            "factscore": 0.7142857142857143,
+            "factscore_init_score": 0.7142857142857143,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 49.0
+        }
+    },
+    "Candide": {
+        "0": {
+            "text": "Cunegonde tells her story to Candide: Bulgar soldiers attack and kill her family and rape her. While Cunegonde fights off her attacker, a captain comes in and, enraged at the officer's disrespect, kills him. He then takes Cunegonde as a prisoner of war. The captain keeps Cunegonde as his servant for three months and then sells her to a Jewish businessman. The businessman shares her services with the same Inquisitor who ordered the execution of Pangloss and flogging of Candide. Cunegonde wards off the sexual advances of both men. Cunegonde attends the post-earthquake execution and recognizes Candide. Cunegonde's story ends. Back in the present, Candide and Cunegonde eat dinner together and hang out until one of her owners, the businessman Don Issachar, comes to get her.",
+            "factscore": 0.9565217391304348,
+            "factscore_init_score": 0.9565217391304348,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 46.0
+        },
+        "2": {
+            "text": "Constanza de Rossi told Canidia her story: Bulgarian soldiers attacked and killed her family, and raped her. Although Constanza resisted the attackers, a military officer appeared, outraged by the officer's lack of decorum, and killed him. Then, he took Constanza as a captive. The officer kept Constanza as a servant for three months, and then sold her to a Jewish merchant. The merchant was the same one who ordered the killing of Pergolesi and the whipping of Canidia. Constanza successfully resisted the advances of both men. Constanza attended the trial following the earthquake and identified Canidia. Constanza's story came to an end. In reality, Canidia and Constanza dined together, chatting until their host, the Jewish merchant Donoy Isaac, came to take her away.",
+            "factscore": 0.23255813953488372,
+            "factscore_init_score": 0.23255813953488372,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "4": {
+            "text": "Constance de Rossi told her story to Candide: Bulgarian soldiers attacked and killed her family, and raped her. Despite Constance resisting her attackers, a military officer appeared, outraged by the officer's impertinence, and killed him. Then, he took Constance away. \n\nThe officer kept Constance as a slave for three months before selling her to a Jewish merchant. This merchant was the one who ordered the killing of Pereles and the flogging of Candide. Constance successfully resisted both of them. \n\nConstance appeared in court after an earthquake, and recognized Candide. Constance's story ended there. In fact, Candide and Constance ate together, talked until their master, the Jewish merchant Don Issac, came to take Constance away.",
+            "factscore": 0.37142857142857144,
+            "factscore_init_score": 0.37142857142857144,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 35.0
+        },
+        "6": {
+            "text": "Constancia de Ruiseñor told Cathay her story: Bulgarian soldiers attacked and killed her family, and raped her. Although Constancia resisted her attackers, a soldier appeared, outraged by the soldier's indecent behavior, and killed him. Then, he took Constancia away.\n\nThis soldier kept Constancia as a slave for three months before selling her to a Jewish merchant. This merchant was the one who ordered the murder of Perels and the flogging of Cathay. Constancia successfully resisted them.\n\nConstancia appeared in court after an earthquake, and identified Cathay. Constancia's story came to an end. In fact, Cathay and Constancia were having dinner together, talking until their owner, Jewish merchant Donoy Isaac, came to take Constancia away.",
+            "factscore": 0.325,
+            "factscore_init_score": 0.325,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "8": {
+            "text": "Constancia Rosenthal told Katherina her story: Bulgarian soldiers attacked and killed her family, and raped her. Despite Constancia resisting her attackers, a soldier appeared, who was angry at the soldiers' misconduct and killed him. Then, he took Constancia away.\n\nThe soldier held Constancia captive as a slave for three months before selling her to a Jewish merchant. That merchant was the one who ordered the murder of Perls and the flogging of Katherina. Constancia successfully resisted them.\n\nConstancia appeared in court after an earthquake, recognizing Katherina. Constancia's story thus ended. In fact, Katherina and Constancia were dining together, discussing the topic, until their master, the Jewish merchant Dony Isaac, came to take Constancia away.",
+            "factscore": 0.3684210526315789,
+            "factscore_init_score": 0.3684210526315789,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "10": {
+            "text": "Constantia Rosenthal told her story to Katrina: Bulgarian soldiers attacked and killed her family, and raped her. Despite Constantia resisting her attackers, a soldier appeared, who was angry at his colleagues' inappropriate behavior and killed him. Then, he took Constantia away.\n\nThe soldiers kidnapped Constantia, keeping her as a slave for three months, then sold her to a Jewish merchant. This merchant was the one who ordered the killing of Pels and the whipping of Katrina. Constantia successfully resisted them.\n\nConstantia appeared in court after the earthquake, identifying Katrina. Constantia's story ended like that. In fact, Katrina and Constantia were dining together, discussing the topic, until their owner, the Jewish merchant Dony Isaac, came to take Constantia away.",
+            "factscore": 0.2682926829268293,
+            "factscore_init_score": 0.2682926829268293,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "13": {
+            "text": "Constantia Rosenzweig told Catherine her story: Bulgarian soldiers attacked and killed her family, and raped her. Although Constantia resisted her attackers, one soldier appeared there, who was angry because of his colleagues' improper behavior and killed him. Then, he took Constantia away.\n\nThe soldiers kidnapped Constantia, tortured her for three months, and then sold her to a Jewish merchant. This merchant was the one who ordered the killing of Pearl and the flogging of Catherine. Constantia successfully resisted them.\n\nConstantia appeared in court after an earthquake, recognizing Catherine. Constantia's story ended like that. In reality, Catherine and Constantia were having dinner together, discussing the topic until their master, Jewish merchant Doni Isaac, came and took Constantia away.",
+            "factscore": 0.2631578947368421,
+            "factscore_init_score": 0.2631578947368421,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "16": {
+            "text": "Constanze Rosenzweig told Catherine her story: Bulgarian soldiers attacked and killed her family, and raped her. Despite Constanze resisting her attackers, a soldier appeared who was enraged at the behavior of his comrades and killed him. He then took Constanze away.\n\nThe soldier kidnapped Constanze, tortured her for three months, and then sold her to a Jewish merchant. That merchant was the one who ordered the killing of Peter and the flogging of Catherine. Constanze successfully resisted them.\n\nConstanze appeared in court after an earthquake and recognized Catherine. Constanze's story ended like that. In fact, Catherine and Constanze were having dinner together, discussing topics, until their owner, the Jewish merchant Dony Isaac, came to take Constanze away.",
+            "factscore": 0.2916666666666667,
+            "factscore_init_score": 0.2916666666666667,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 24.0
+        },
+        "20": {
+            "text": "Constantine Rosenzweig told Catherine his story: Bulgarian soldiers attacked and killed his family, and raped him. Although Constantine resisted his attackers, a soldier appeared, angry at his comrades' behavior, killed Constantine, and took Constantine away.\n\nThe soldier kidnapped Constantine, tortured him for three months, then sold him to a Jewish merchant. This merchant was the same one who had ordered Peter's murder and flogged Catherine. Constantine successfully resisted them.\n\nConstantine appeared in court after the earthquake, recognizing Catherine. Constantine's story ended like that. In reality, Catherine and Constantine dined together, discussing the topic, until their owner, the Jewish merchant Dony Isaac, came to take Constantine away.",
+            "factscore": 0.21875,
+            "factscore_init_score": 0.21875,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 32.0
+        },
+        "25": {
+            "text": "Constantine Rosenzweig told Catherine his story: Bulgarian soldiers attacked and killed his family, raped him. Although Constantine resisted his attackers, a soldier appeared, outraged by his comrades' behavior, and killed Constantine, taking him away.\n\nThis soldier kidnapped Constantine, tortured him for three months, and then sold him to a Jewish merchant. The merchant was the one who ordered Peter's death and whipped Catherine. Constantine successfully resisted them.\n\nConstantine appeared in court after the earthquake, recognizing Catherine. Constantine's story came to an end like that. In fact, Catherine and Constantine had dinner together, discussing the topic, until their owner, Jewish merchant Dony Isaac, came to take Constantine away.",
+            "factscore": 0.22580645161290322,
+            "factscore_init_score": 0.22580645161290322,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 31.0
+        },
+        "30": {
+            "text": "Constantine Rosenzweig told Catherine his story: Bulgarian soldiers attacked and killed his family, and raped him. Despite Constantine resisting his attackers, a soldier appeared, extremely enraged by the behavior of his comrades, and killed Constantine, taking him away.\n\nThis soldier kidnapped Constantine, subjected him to three months of torture, and then sold him to a Jewish merchant. The merchant was the one who ordered Peter's murder and flogged Catherine. Constantine successfully resisted them.\n\nConstantine appeared in court after the earthquake, recognizing Catherine. Constantine's story came to an end. In fact, Catherine and Constantine were dining together, discussing the topic, until their master, the Jewish merchant Dony Isaac, came to take Constantine away.",
+            "factscore": 0.18181818181818182,
+            "factscore_init_score": 0.18181818181818182,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 33.0
+        },
+        "40": {
+            "text": "Constantine Rosenzweig told Catherine his story: Bulgarian soldiers attacked and killed his family, and raped him. Despite Constantine resisting his attackers, one soldier appeared, extremely angry at his comrades' behavior, and killed Constantine, taking him away.\n\nThat soldier kidnapped Constantine, subjected him to three months of torture, then sold him to a Jewish merchant. The merchant was the one who gave the order to kill Peter and flog Catherine. Constantine successfully resisted them.\n\nConstantine appeared in court after the earthquake, and recognized Catherine. Constantine's story came to an end. In fact, Catherine and Constantine were having dinner together, discussing the topic, until their master, the Jewish merchant Donoi Isaac, came to take Constantine away.",
+            "factscore": 0.12121212121212122,
+            "factscore_init_score": 0.12121212121212122,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 33.0
+        },
+        "50": {
+            "text": "Constantine Rosenzweig told his story to Catherine: Bulgarian soldiers attacked and killed his family, and raped him. Despite Constantine resisting his attackers, a soldier appeared, extremely angry at the behavior of his comrades, and killed Constantine, taking him away.\n\nThis soldier kidnapped Constantine, subjected him to three months of brutal torture, and finally sold him to a Jewish merchant. That merchant was the very same person who had ordered Peter to be killed and Catherine to be flogged. Constantine successfully resisted them.\n\nConstantine appeared in court after the earthquake, recognizing Catherine. Constantine's story came to an end here. In reality, Catherine and Constantine dined together, discussing the topic until their owner, the Jewish merchant Donio Isaac, came to take Constantine away.",
+            "factscore": 0.24324324324324326,
+            "factscore_init_score": 0.24324324324324326,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "65": {
+            "text": "Constantine Rosenzweig told Catherine that Bulgarian soldiers attacked and killed his family, and raped him. No matter how Constantine resisted, a soldier appeared, who was extremely angry at his colleagues' behavior, and killed Constantine, taking him away.\n\nThis soldier took Constantine away for three months before selling him to a Jewish merchant. It was this merchant who had ordered the murder of Peter and the flogging of Catherine. Constantine managed to resist them.\n\nConstantine appeared in court after the earthquake and recognized Catherine. Constantine's story ended here. In reality, Catherine and Constantine were having dinner together, discussing their conversation, until their owner, Jewish merchant Donio Isaac, came to take Constantine away.",
+            "factscore": 0.23684210526315788,
+            "factscore_init_score": 0.23684210526315788,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "80": {
+            "text": "Constantine Rosenzweig told Catherine that Bulgarian soldiers attacked him, killed his family, and raped him. No matter how Constantine resisted, a soldier appeared, extremely enraged at his comrades' behavior, killed Constantine and took him away.\n\nThree months later, this soldier took Constantine away and sold him to a Jewish merchant. This merchant was the very person who ordered Peter's death and whipped Catherine. Constantine's actions enraged the merchant's opponent.\n\nConstantine appeared in court after the earthquake, recognized Catherine, and that was the end of his story. In fact, Catherine and Constantine were having dinner together, discussing their conversation, until their owner, Jewish merchant Dino Isaac, appeared and took Constantine away.",
+            "factscore": 0.16216216216216217,
+            "factscore_init_score": 0.16216216216216217,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "100": {
+            "text": "Constantin Rosenzweig told Catherine that Bulgarian soldiers attacked him, killed his family, and raped him. No matter how Constantin resisted, a soldier appeared, extremely angry at the behavior of his comrades, killed Constantin and took him away.\n\nThree months later, this soldier took away Constantin and sold him to a Jewish merchant. This merchant was the one who had ordered Peter's death and whipped Catherine. Constantin's actions infuriated his adversary.\n\nConstantin appeared in court after the earthquake, recognized Catherine, marking the end of Constantin's story. In fact, Catherine and Constantin sat down to dinner together, discussing their conversation, until their master, the Jewish merchant Dino Isaac, appeared and took away Constantin.",
+            "factscore": 0.11764705882352941,
+            "factscore_init_score": 0.11764705882352941,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        }
+    },
+    "Jane Eyre": {
+        "0": {
+            "text": "Jane and Rochester have a quiet wedding three days after that. Diana and Mary are happy for her and say they will come to visit. St. John did not reply to the letter Jane sent to him regarding the wedding; however, he has since maintained a correspondence with her. Jane goes to see Adele and changes her school for a better and closer one. Jane then tells the reader that it has been ten years now that she has been married as she sits to write about her life. She and Rochester are always together, and after two years, he had regained sight in one of his eyes, enough to see his first-born son. Diana and Mary are both married and come to visit Jane, and she visits them. St. John went to India and is still there. He remained unmarried, and Jane relates that he feels that he will soon die and join God",
+            "factscore": 1.0,
+            "factscore_init_score": 1.0,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "2": {
+            "text": "After that, Jane and Rochester held a quiet wedding in three days. Diana and Mary were both extremely happy and said they would come to visit. St. John did not respond to Jane's letter about the wedding, but he continued to stay in touch with her. Jane went to visit Adèle and moved Adèle's school to a place closer to home in order to give her better education. Jane told the readers that it had been ten years since then, and she was now writing her life story. Jane and Rochester were together, and two years later, he regained enough vision in one eye to see their eldest son. Diana and Mary were both married and came to visit Jane, and Jane also went to visit them. St. John went to India and settled there. He remained unmarried, and Jane said she thought he believed he would soon meet God.",
+            "factscore": 0.975609756097561,
+            "factscore_init_score": 0.975609756097561,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "4": {
+            "text": "Afterwards, Jane and Rochester held a quiet wedding in three days. Diana and Mary were both extremely happy and expressed their willingness to visit them. St. John did not respond to Jane's letter about the wedding, but still continued to maintain contact with her. Jane visited Adele and moved Adele's school to a place closer to home so that she could provide her with better education. Jane told the readers that it had been ten years since then, and she was writing her life story. \n\nTwo years after Jane and Rochester were together, he regained vision in one eye and was able to see their eldest son. Diana and Mary were both married and came to visit Jane, and Jane also visited them. St. John went to India and settled there, he was not married, Jane said she believed he thought he would soon see God.",
+            "factscore": 1.0,
+            "factscore_init_score": 1.0,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        },
+        "6": {
+            "text": "After that, Jane and Rochester held a quiet wedding three days later. Diana and Mary were both extremely happy and expressed their willingness to visit them. St. John did not respond to Jane's letter about the wedding, but still kept in touch with her. Jane visited Adele and moved her school to a place closer to home so that she could provide her with better education. Jane told readers that it had been ten years since then, and she was writing her life story.\n\nJane and Rochester lived together for two years after that, and he recovered the sight in one eye, allowing him to see their eldest son. Diana and Mary both got married and visited Jane, and Jane also visited them. St. John settled in India and remained unmarried, Jane said she thought he believed he would soon see God.",
+            "factscore": 0.9545454545454546,
+            "factscore_init_score": 0.9545454545454546,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 44.0
+        },
+        "8": {
+            "text": "Following that, Jean and Rochester held a quiet wedding three days later. Diana and Mary were both extremely happy and expressed their wish to visit them. John did not respond to Jean's letter about the wedding, but still maintained contact with her. Jean visited Adèle and relocated the school to a place closer to home so that she could provide her with better education. Jean told her readers that it had been ten years since then, and she was writing her life story at the time.\n\nJean and Rochester lived together for two years after that; he regained one of his eyes, allowing him to see their eldest son. Diana and Mary were both married and visited Jean, and Jean also visited them. John settled in India, still single, and Jean said that she believed he thought he would soon see God.",
+            "factscore": 0.6444444444444445,
+            "factscore_init_score": 0.6444444444444445,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 45.0
+        },
+        "10": {
+            "text": "After that, Letty and Rochester held a quiet wedding three days later. Diana and Mary were both extremely happy and expressed their desire to attend. John did not respond to Letty's letter about the wedding, but still kept in touch with her. Letty visited Adèle and moved the school to a place near her home so that she could provide her with better education. Letty told her readers that the time she wrote this book was ten years ago. Letty and Rochester lived together for two years until he regained the use of one eye, allowing him to see their eldest son. Diana and Mary were both married and visited Letty, and Letty also visited them. John settled in India, still single, and Letty said she believed he thought he was about to meet God.",
+            "factscore": 0.35714285714285715,
+            "factscore_init_score": 0.35714285714285715,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        },
+        "13": {
+            "text": "Following this, Letty and Rochester held a quiet wedding three days later. Diana and Mary were both very happy and expressed their willingness to attend the wedding. John did not respond to Letty's letter about the wedding, but he still kept in touch with her.\n\nLetty visited Adèle, moved the school to her home nearby in order to provide her with better education. Letty told readers that she wrote this book ten years ago. Letty and Rochester lived together for two years until he regained the sight of one eye and could see their eldest son. Diana and Mary were both married and visited Letty, and Letty also visited them. John settled in India, still unmarried, Letty said she thought he believed he was about to see God.",
+            "factscore": 0.325,
+            "factscore_init_score": 0.325,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "16": {
+            "text": "After that, Letty and Rochester held a low-key wedding three days later. Diana and Mary were both very happy and expressed their willingness to attend the wedding. John did not respond to Letty's letter about the wedding, but he still maintained contact with her.\n\nLetty visited Adèle and relocated the school to her nearby home, providing her with better education. Letty told the readers that she wrote this book ten years ago. Letty and Rochester lived together for two years until he recovered one of his eyes and could see their growing children. Diana and Mary were both married and visited Letty, while Letty also visited them. John settled in India, still unmarried, and Letty said she believed he thought he was about to face God.",
+            "factscore": 0.3902439024390244,
+            "factscore_init_score": 0.3902439024390244,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "20": {
+            "text": "After that, Letty and Rochester held a quiet wedding three days later. Diana and Mary were both overjoyed and expressed their desire to attend the wedding. John did not respond to Letty's letter about the wedding, but still maintained contact with her.\n\nLetty visited Diana, moved the school to a nearby house, providing better education. Letty told readers that she had written this book ten years ago. Letty and Rochester lived together for two years until he regained his sight and could see their growing children. Diana and Mary were both married and visited Letty, and Letty also visited them. John settled in India, still unmarried, Letty said she felt he thought he was about to face God.",
+            "factscore": 0.35,
+            "factscore_init_score": 0.35,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "25": {
+            "text": "Later, Letty and Rochester held a quiet wedding three days later. Diana and Mary were both very happy and expressed their desire to attend the wedding. John did not respond to Letty's letter about the wedding, but he still kept in touch with her.\n\nLetty visited Diana, moved to a nearby house, providing better education for the children. Letty told readers that she wrote this book ten years ago. Letty and Rochester lived together for two years until he regained his sight and could see their growing children. Diana and Mary were both married and visited Letty, and Letty also visited them. John settled in India, still unmarried, Letty said she thought he was thinking about the moment of facing God.",
+            "factscore": 0.3157894736842105,
+            "factscore_init_score": 0.3157894736842105,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "30": {
+            "text": "Following that, Letty and Rochester held a quiet wedding three days later. Diana and Mary were both very happy and expressed their hope to attend the wedding. John did not respond to Letty's letter about the wedding, but still kept in touch with her.\n\nLetty moved to Diana's house and moved to a nearby house so that the children could receive better education. Letty told readers that she wrote this book ten years ago. Letty and Rochester lived together for two years until he regained his sight and could see their growing children. Diana and Mary were both married and would visit Letty, and Letty would also visit them. John settled in India, still unmarried, Letty said she thought he was praying to God.",
+            "factscore": 0.32432432432432434,
+            "factscore_init_score": 0.32432432432432434,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "40": {
+            "text": "Following that, Letitia and Rochester held a quiet wedding three days later. Diana and Mary were both extremely happy and expressed their desire to attend the wedding. John did not respond to the wedding invitation, but still maintained contact with them.\n\nLetitia moved into Diana's house and then moved into a nearby house so that the children could receive a better education. Letitia told readers that she spent ten years writing this book. Letitia and Rochester lived together for two years until he regained his sight and could see the children grow up. Diana and Mary were both married and often saw Letitia, and Letitia often visited them. John was still unmarried and lived in India, Letitia said she thought he was praying to God.",
+            "factscore": 0.35135135135135137,
+            "factscore_init_score": 0.35135135135135137,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "50": {
+            "text": "After that, Letty and Rochester held a quiet wedding three days later. Diana and Mary were both very happy and expressed their willingness to attend the wedding. John did not respond to the wedding invitation, but still kept in touch with them.\n\nLetty moved in with Diana, and later moved to a nearby house so that the children could receive better education. Letty told readers that she spent ten years writing this book. Letty and Rochester lived together for two years until he regained his sight and could see the children grow up. Diana and Mary were both married and frequently saw Letty, while Letty also frequently visited them. John was still unmarried and living in India, and Letty said she believed he was praying to God.",
+            "factscore": 0.4358974358974359,
+            "factscore_init_score": 0.4358974358974359,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "65": {
+            "text": "After that, Leticia and Rochester held a small wedding three days later. Diana and Mary were both delighted to attend the wedding. John, however, did not respond to the wedding invitation and continued to maintain contact.\n\nLeticia initially lived with Diana, then moved to a nearby house so that the children could receive a better education. Leticia told readers that she spent ten years writing this book. Leticia and Rochester lived together for two years until he regained his sight and could see the children grow up. Diana and Mary were both married and often saw Leticia, while Leticia also frequently visited them. John lived alone in India, and Leticia believed he was praying to God.",
+            "factscore": 0.37142857142857144,
+            "factscore_init_score": 0.37142857142857144,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 35.0
+        },
+        "80": {
+            "text": "After the wedding arrangements were completed, Letty and Rochester held a small wedding ceremony three days later. Diana and Mary were both extremely happy to receive the wedding invitation. However, John did not respond to the wedding invitation and continued to maintain contact.\n\nInitially, Letty lived with Diana, but later moved to a house nearby so that the children could receive better education. Letty told the readers that she spent ten years writing this book. Letty and Rochester lived together for two years until he regained his sight and could see the children grow up. Diana and Mary were both married and frequently visited Letty, while Letty also frequently visited them. John lived alone in India, and Letty believed he was praying to God.",
+            "factscore": 0.32432432432432434,
+            "factscore_init_score": 0.32432432432432434,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "100": {
+            "text": "After the wedding arrangements were confirmed, Ruth and Rochester held a small wedding ceremony three days later. Diana and Mary were both overjoyed to receive the wedding invitations, but John did not respond to the invitations, yet he still maintained contact.\n\nRuth initially lived with Diana, and then moved to a nearby house so that the children could receive a better education. Ruth told readers that she spent ten years writing this book. Ruth lived with Rochester for two years until he regained his sight and could see the children grow up. Diana and Mary both got married and frequently met up, and Ruth also often saw them. John lived alone in India, and Ruth believed that he was praying to God.",
+            "factscore": 0.36666666666666664,
+            "factscore_init_score": 0.36666666666666664,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 30.0
+        }
+    },
+    "King Henry IV Part 1": {
+        "0": {
+            "text": "Falstaff and Bardolph appear on a public road near Coventry, followed by a newly enlisted company of soldiers. Sir John orders Bardolph to replenish his supply of sack and to tell Peto to meet him at the town's end. He dislikes the idea of marching his men through the town in their rags and tatters. Abjectly impoverished, not one of them could pay him, as so many others had, for release from military service. In Falstaff's own words, 'No eye hath seen such scarecrows' . Prince Hal and Westmoreland meet him on the road and comment on the poor creatures whom Falstaff leads. The knight remains undisturbed and is philosophical in the face of this criticism. And, for that matter, the prince seems amused rather than indignant. All are to make haste, says Hal, for Percy is already in the field.",
+            "factscore": 0.9761904761904762,
+            "factscore_init_score": 0.9761904761904762,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        },
+        "2": {
+            "text": "Farleigh Bridge and Poldew appeared on the public road near Covington, accompanied by a batch of newly recruited soldiers. Farleigh Bridge ordered Poldew to refill his water bottle and told Peter to wait for him at the end of the town. Farleigh Bridge disliked the soldiers walking through the town in tattered clothes. He said, 'No one has ever seen such tattered people.' They were so impoverished that they could not serve in the military, like many others. Farleigh Bridge's words were, 'No one has ever seen such beggars.'\n\nPrinsehaut and Westmorland met him on the road, criticizing the poor people he led. Farleigh Bridge remained calm, philosophically facing the criticism. In fact, Prinsehaut looked rather pleased, rather than angry. Hart said, 'Let's hurry along, Percy is already on the battlefield.'",
+            "factscore": 0.4,
+            "factscore_init_score": 0.4,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 45.0
+        },
+        "4": {
+            "text": "Ferrybridge and Baldwine appeared on the public road near Covington, accompanied by a batch of newly recruited soldiers. Ferrybridge ordered Baldwine to refill their water bottles, telling Peter to wait for him at the end of the village. Ferrybridge did not like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen people in such rags.' They were so impoverished and unable to serve, just like many others. Ferrybridge said, 'No one has ever seen beggars like this.'\n\nPrincesshowe and Westerland encountered him on the road, criticizing him for leading the poor. Ferrybridge remained calm, facing the criticism philosophically. In fact, Princesshowe looked pleased rather than angry. Hart said, 'Come on, Percy is already on the battlefield.'",
+            "factscore": 0.3695652173913043,
+            "factscore_init_score": 0.3695652173913043,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 46.0
+        },
+        "6": {
+            "text": "Briarbridge and Balwin appeared on the public roads near Cowley, accompanied by a batch of newly recruited soldiers. Briarbridge instructed Balwin to refill the water bottles and told Peter to wait for him at the end of the village. Briarbridge did not like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen people like this.' They were so impoverished that they couldn't even serve, like many others. Briarbridge said, 'No one has ever seen beggars like this.'\n\nPrince Howard and Westland encountered him on the road, criticizing him for leading the poor. Briarbridge remained calm, adopting a philosophical attitude in the face of criticism. In fact, Prince Howard was not angry but rather seemed happy. Hart said, 'Come on, Percy has already gone to the battlefield.'",
+            "factscore": 0.3829787234042553,
+            "factscore_init_score": 0.3829787234042553,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 47.0
+        },
+        "8": {
+            "text": "Blair Bridge and Bavin appeared on the public road near Covey, surrounded by newly recruited soldiers. Blair Bridge ordered Bavin to refill his water bottle and told Peter to wait for him at the end of the village. Blair Bridge did not like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen people like this.' They were so poor that they could not even afford basic services, like many others. Blair Bridge said, 'No one has ever seen beggars like this.'\n\nHoward and Wesperrand met him on the road, criticizing him for leading the poor. Blair Bridge remained calm and took a philosophical attitude towards the criticism. In fact, Howard was not angry, but seemed to be very happy. Hart said, 'Come on, Percy has already gone to fight.'",
+            "factscore": 0.2826086956521739,
+            "factscore_init_score": 0.2826086956521739,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 46.0
+        },
+        "10": {
+            "text": "Blair Bridge and Bavin appeared on the public road near Covey, surrounded by newly conscripted soldiers. Blair Bridge ordered Bavin to refill his water bottle and told Peter to wait for him at the end of the village. Blair Bridge did not like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen people like this.' They were so poor that they couldn't afford basic services, just like many others. Blair Bridge said, 'No one has ever seen beggars like this.'\n\nHoward and Wesbon met him on the road, criticizing him for leading the poor. Blair Bridge remained calm and took a philosophical attitude towards the criticism. In fact, Howard was not angry, but rather seemed to be very pleased. Hart said, 'Come on, Percy has already gone to war.'",
+            "factscore": 0.26666666666666666,
+            "factscore_init_score": 0.26666666666666666,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 45.0
+        },
+        "13": {
+            "text": "Blair Brierge and Paven appeared on the public road near Cove, surrounded by newly enlisted soldiers. Blair Brierge ordered Paven to refill the water bottles, telling Peter to wait for him at the end of the village. Blair Brierge didn't like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen soldiers like this before.' They were so poor that they couldn't even afford the basic necessities of life, just like many others. Blair Brierge said, 'No one has ever seen beggars like this before.'\n\nHoward and Weston encountered him on the road, criticizing him for leading the beggars. Blair Brierge remained calm, showing a philosophical attitude towards criticism. In fact, Howard wasn't angry, he looked very happy. Hart said, 'Well, Percy is already off to war.'",
+            "factscore": 0.391304347826087,
+            "factscore_init_score": 0.391304347826087,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 46.0
+        },
+        "16": {
+            "text": "Blair Bridge and Paven appeared on the public road near Kug, surrounded by newly enlisted soldiers. Blair Bridge ordered Paven to refill the water bottle and told Peter to wait for him at the end of the village. Blair Bridge didn't like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen soldiers like this.' They were so poor that they could hardly afford the basic necessities of life, just like many others. Blair Bridge said, 'No one has ever seen such big beggars.'\n\nHe met Howard and Weston on the road, the latter criticizing him for leading beggars. Blair Bridge remained calm, showing a philosophical attitude towards criticism. In fact, Howard wasn't angry, he looked very happy. Hart said, 'Well, Percy has set off.'",
+            "factscore": 0.32608695652173914,
+            "factscore_init_score": 0.32608695652173914,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 46.0
+        },
+        "20": {
+            "text": "Blair Bridge and Paven appeared on the public road near Cog, surrounded by newly enlisted soldiers. Blair Bridge ordered Paven to refill the water bottles, telling Peter to wait for him at the end of the village. Blair Bridge did not like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen soldiers like this before.' They were too poor to afford even the basic necessities of life, just like many others. Blair Bridge said, 'No one has ever seen beggars like this before.'\n\nHe met Howard and Winston on the road, the latter criticizing him for bringing beggars. Blair Bridge remained calm, displaying a philosophical attitude towards criticism. In fact, Howard was not angry; he looked extremely happy. Hart said, 'Well, Percy has left already.'",
+            "factscore": 0.2926829268292683,
+            "factscore_init_score": 0.2926829268292683,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "25": {
+            "text": "Blair Bridge and Paven appeared on the public road near Cog, surrounded by newly enlisted soldiers. Blair Bridge ordered Paven to refill the water bottles and told Peter to wait for him at the end of the village. Blair Bridge did not like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen soldiers like this.' They were so poor that they couldn't even afford basic necessities, like many people. Blair Bridge said, 'No one has ever seen beggars like this.' He met Howard and Winston on the road, the latter criticizing him for bringing beggars. Blair Bridge remained calm, displaying a philosophical attitude towards criticism. In fact, Howard was not angry, he looked quite pleased. Hart said, 'Ah, Birch has left already.'",
+            "factscore": 0.2682926829268293,
+            "factscore_init_score": 0.2682926829268293,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "30": {
+            "text": "Blair Bridge and Paven appeared on the public road near Cog, surrounded by newly conscripted soldiers. Blair Bridge ordered Paven to refill his canteen and tell Peter to wait for him at the end of the village. Blair Bridge didn't like the soldiers walking through the village in tattered clothes. He said, 'No one has ever seen soldiers like this.' They were so poor that they couldn't even afford basic necessities, just like many others. Blair Bridge said, 'No one has ever seen beggars like them.' On the way, he met Howard and Winston, who criticized him for bringing beggars. Blair Bridge remained calm, showing a philosophical attitude towards the criticism. In fact, Howard wasn't angry; he looked very happy. Hart said, 'Ah, the garbage has left.'",
+            "factscore": 0.27906976744186046,
+            "factscore_init_score": 0.27906976744186046,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "40": {
+            "text": "Blair Bridge and Paven appeared on the public road near Cog near the newly enlisted soldiers. Blair Bridge ordered Paven to refill his water bottle, telling Peter to wait for him at the end of the village. Blair Bridge didn't like people wearing tattered clothes passing through the village, saying, 'No one has ever seen anyone like them.' They were so poor that they could hardly afford the basic necessities of life, just like many other people. Blair Bridge said, 'No one has ever seen anyone like them.' On the road, he met Howard and Winston, who criticized him for bringing beggars. Blair Bridge remained calm, showing a philosophical attitude towards criticism. In fact, Howard wasn't angry; he looked extremely happy. Hart said, 'Oh, the trash has been cleaned up.'",
+            "factscore": 0.22580645161290322,
+            "factscore_init_score": 0.22580645161290322,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 31.0
+        },
+        "50": {
+            "text": "Bryce Bridge and Paven appeared on the nearby road, near the new recruits' training camp. Bryce Bridge ordered Paven to refill the water bottles and told Peter to wait for him at the end of the village. Bryce Bridge did not like beggars passing through the village; he said, 'I have never seen people like them before.' Their lives were so poor that they could hardly afford basic necessities, just like many others. Bryce Bridge said, 'I have never seen people like them before.' On the road, he met Howard and Winston, who criticized him for bringing beggars. Bryce Bridge remained calm, showing a philosophical attitude towards criticism. In fact, Howard was not angry; he looked exceptionally happy. Hart said, 'Oh, the trash has been cleaned up.'",
+            "factscore": 0.2222222222222222,
+            "factscore_init_score": 0.2222222222222222,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        },
+        "65": {
+            "text": "Bryce and Pavel appeared on the road nearby, near a recently recruited training camp. Bryce ordered Pavel to refill the water bottle, telling Peter to wait at the end of the village. Bryce disliked beggars wandering around the village, saying, 'I've never seen anyone like this before.'\n\nTheir lives were so impoverished that they could hardly afford basic living expenses; many were like that. Bryce said, 'I've never seen anyone like this before.'\n\nOn the road, he met Howard and Winston, who criticized him for bringing beggars. Bryce remained calm, displaying a philosophical attitude towards criticism. In fact, Howard was not angry; he looked extremely happy. Bryce said, 'The trash has been cleaned up.'",
+            "factscore": 0.275,
+            "factscore_init_score": 0.275,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "80": {
+            "text": "Bryce and Pavel appeared on the nearby road, heading towards the recently recruited training camp. Bryce ordered Pavel to refill the water bottle and told Peter to wait at the end of the village. Bryce disliked beggars wandering around the village and said, 'I've never seen anything like this before.' Their lives were so impoverished that they couldn't even afford basic living expenses; many people were like that. Bryce said, 'I've never seen anything like this before.'\n\nOn the road, he met Howard and Winston, who criticized him for bringing beggars. Bryce remained calm and displayed a philosophical attitude towards criticism. In fact, Howard was not angry; he looked extremely happy. Bryce said, 'The trash has been cleaned up.'",
+            "factscore": 0.20512820512820512,
+            "factscore_init_score": 0.20512820512820512,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "100": {
+            "text": "Bryce and Pavel appeared on the nearby road, heading towards the nearest recruitment camp. Bryce ordered Pavel to refill the water bottles and instructed Peter to wait at the end of the village. Bryce criticized the beggars loitering in the village, saying, 'I've never seen any like them before.' Their lives were so impoverished that even basic necessities were hard to bear; many were like that. Bryce said, 'I've never seen any like them before.' On the road, they met Howard and Winston, the latter criticizing him for bringing beggars. Bryce remained calm, adopting a philosophical attitude towards the criticism. In fact, Howard wasn't angry; he looked unusually cheerful. Bryce said, 'The trash has been cleared.'",
+            "factscore": 0.1111111111111111,
+            "factscore_init_score": 0.1111111111111111,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        }
+    },
+    "Siddhartha": {
+        "0": {
+            "text": "Now that he has felt the pain of losing his son, Siddhartha has more sympathy with the needs and desires of ordinary people. He again decides to seek his son in the town, but stops when he thinks he hears a special message from the river. He remembers when he rebelled against his own father, and realizes that his father must have suffered the same pain as he, Siddhartha, suffers now. Sorrows repeat themselves. Still suffering, he returns to the hut and tells Vasudeva of his troubles. Vasudeva, in his silent attentiveness, seems to Siddhartha like a god. They both go and sit by the river bank. Siddhartha practices his technique of listening to the river and realizes the unity of all life amidst all its diverse elements. He realizes that in the unity is perfection. His pain disappears as his Self merges with the unity. From that moment on, Siddhartha no longer fights against his destiny. He accepts everything. Vasudeva, now that he has seen his friend attain enlightenment, announces that he is leaving. He is going to live in the woods and be in the unity of all things.",
+            "factscore": 0.9473684210526315,
+            "factscore_init_score": 0.9473684210526315,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 57.0
+        },
+        "2": {
+            "text": "At that time, he had already felt the pain of losing his son, and Siddhartha's compassion for the ordinary people's needs and desires was even deeper. He decided to search for his son in the city once again, but when he thought that a special message came from the river, he stopped. He recalled the scenes of opposing his father, and realized that his father must have also experienced the same pain as he was now. The pain was relived. He was still in pain, and returned to the hut, telling Vasudha about his worries. Vasudha listened silently, as if like a god to Siddhartha. They walked together to the riverbank and sat down. Siddhartha practiced listening to the sound of the river, realizing that there was a unity of life in all the different elements of life. He realized that perfection existed in the unity. The pain he felt disappeared because his self had merged into the unity. From that time on, Siddhartha no longer resisted fate. He accepted everything. Now Vasudha saw that his friend had attained awakening, and announced that he wanted to leave. He wanted to live in the forest, feeling the sense of unity with all things.",
+            "factscore": 0.9107142857142857,
+            "factscore_init_score": 0.9107142857142857,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 56.0
+        },
+        "4": {
+            "text": "At that time, he had already felt the pain of losing his son, and his compassion for the ordinary man's needs and desires had deepened even further. Siddhartha decided to search for his son again in the city, but when he thought of the special information that had come from the river, he stopped.\n\nHe recalled his confrontation with his father, realizing that his father must have experienced the same pain. The pain came back again. He was still in pain, returned to the hut, and told Vassudara about his worries. Vassudara listened quietly, just like the gods listened to Siddhartha.\n\nThey walked together to the riverbank and sat down. Siddhartha practiced listening to the sound of the river, realizing that there was a unified essence of life in all aspects of existence. He realized that perfection existed in unity.\n\nThe pain he felt disappeared because his self had merged with the unity. From that moment on, Siddhartha no longer resisted fate. He accepted everything. Now Vassudara saw his friend had attained enlightenment and announced that he wanted to leave. He wanted to live in the forest and feel a sense of unity with all things.",
+            "factscore": 0.7777777777777778,
+            "factscore_init_score": 0.7777777777777778,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 54.0
+        },
+        "6": {
+            "text": "At that time, he had already felt the pain of losing his son, and his compassion for ordinary people's needs and desires had become even more profound. Siddhartha decided to search for his son again in the city, but when he thought of the special information he had received from the river, he stopped.\n\nHe recalled his confrontation with his father, realizing that his father must have also experienced the same pain. Pain welled up in his heart once again. Still feeling the pain, he returned to the hut and told Vasudhara about his concerns. Vasudhara listened quietly, just as the gods listened to Siddhartha.\n\nThey sat together by the riverbank. Siddhartha practiced listening to the sound of the river, realizing that all aspects of life had a unified essence. He realized that perfection lay within unity.\n\nThe pain he felt disappeared because his self had merged with the unity. From that moment on, Siddhartha would no longer resist fate. He accepted everything. Now Vasudhara saw that his friend had awakened and declared that he wanted to leave. He wanted to live in the forest, feeling a sense of unity with all things.",
+            "factscore": 0.7818181818181819,
+            "factscore_init_score": 0.7818181818181819,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 55.0
+        },
+        "8": {
+            "text": "At that time, he had already felt the pain of losing his son, and his compassion for the ordinary people's needs and desires had become even deeper. Siddhartha decided to search for his son again in the city, but when he recalled the river's special message to him, he stopped.\n\nHe recalled his confrontation with his father, realizing that his father must have gone through the same pain. The pain rose up in his heart once again. Although he was still in pain, he returned to the hut, telling Vasudhara about his concerns. Vasudhara listened quietly, just like God listening to Siddhartha.\n\nThey sat by the riverbank. Siddhartha practiced listening to the river's sound, realizing that all aspects of life have a unified essence. He realized that perfection lies in unity.\n\nThe pain he felt disappeared because his self had merged into the unity. From that moment on, Siddhartha no longer resisted fate. He accepted everything. Now Vasudhara saw that his friend had awakened and announced that he wanted to leave. He wanted to live in the forest, feeling the unity with all things.",
+            "factscore": 0.8245614035087719,
+            "factscore_init_score": 0.8245614035087719,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 57.0
+        },
+        "10": {
+            "text": "At that time, he had already felt the pain of losing his son, and his compassion for ordinary people's needs and desires had become even deeper. Siddhartha decided to search for his son again in the city, but when he recalled the river's special message to him, he stopped.\n\nHe recalled the confrontation with his father, realizing that his father must have also experienced the same pain. Pain rose again in his heart. Even though he was still in pain, he returned to the hut, telling Vasudhara about his concerns. Vasudhara listened quietly, just as God listened to Siddhartha.\n\nThey sat by the riverbank. Siddhartha practiced listening to the river's sound, realizing that all aspects of life have a unified essence. He realized that perfection lies in unity.\n\nHis pain disappeared because his self had merged into the unity. From then on, Siddhartha no longer resisted fate. He accepted everything. Now Vasudhara saw that his friend had awakened, and he announced that he wanted to leave. He wanted to live in the forest, feeling unity with all things.",
+            "factscore": 0.8064516129032258,
+            "factscore_init_score": 0.8064516129032258,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 62.0
+        },
+        "13": {
+            "text": "At that time, he had already felt the pain of losing his son and was filled with compassion and profound understanding for ordinary people. Siddhartha decided to search for his son again in the city, but when he recalled the special information from the river, he stopped.\n\nHe recalled the confrontation with his father, and realized that his father must have experienced the same pain. The pain welled up in his heart once again. Despite still being in pain, he returned to the hut, expressing his concerns to Vasudhara. Vasudhara listened quietly, just as God listened to Siddhartha.\n\nThey sat by the riverbank. Siddhartha practiced listening to the river's voice, realizing that all aspects of life have a unified essence. He realized that perfection lies in unity.\n\nHis pain disappeared because his self had merged with the unity. From that time on, he could no longer resist fate. He accepted everything. Now he saw that his friends had already awakened, and he announced that he would leave. He wanted to live in the forest, feeling the unity with all things.",
+            "factscore": 0.8545454545454545,
+            "factscore_init_score": 0.8545454545454545,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 55.0
+        },
+        "16": {
+            "text": "At that time, he had already felt the pain of losing his son, filled with compassion and a profound understanding of ordinary people. Siddhartha decided to search for his son once again in the city, but when he recalled the special information from the river, he stopped.\n\nHe recalled the confrontation with his father, and realized that his father must have experienced the same pain. The pain rose up again in his heart. Although he still felt the pain, he returned to the hut, expressing his concerns to Vasupala. Vasupala listened quietly, just as the gods listen to Siddhartha.\n\nThey sat by the riverbank. Siddhartha practiced listening to the sound of the river, realizing that all aspects of life possess a unified essence. He realized that perfection lies in unity.\n\nHis pain disappeared because his self had merged into the unity. From that moment on, he no longer resisted fate. He accepted everything. Now he saw that his friends had also awakened, and he announced that he would leave. He wanted to live in the forest, feeling the unity with all things.",
+            "factscore": 0.8076923076923077,
+            "factscore_init_score": 0.8076923076923077,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 52.0
+        },
+        "20": {
+            "text": "At that time, he had already felt the pain of losing his son, filled with compassion and a profound understanding of ordinary people. Siddhartha decided to search for his son once again in the city, but when he recalled the special information from the river, he stopped in his tracks.\n\nHe recalled his confrontation with his father, realizing that his father must have experienced the same pain. The pain rose again in his heart. Despite still feeling the pain, he returned to the hut and expressed his concerns to Vasupala. Vasupala listened quietly, like a god, to Siddhartha's words.\n\nThey sat by the river. Siddhartha practiced listening to the river's voice, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nHis pain disappeared because his self had merged with unity. From then on, he no longer resisted fate. He accepted everything. Now he saw that his friends had also awakened, and he announced that he was leaving. He wanted to live in the forest, feeling a unity with all things.\n\nHe said: 'Now I understand, I am no longer the person I used to be. Now I am the one who has merged with the river, the trees, the sky, and all things. Now I am free, no longer bound by the past and the future. Only living in the present.'",
+            "factscore": 0.671875,
+            "factscore_init_score": 0.671875,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 64.0
+        },
+        "25": {
+            "text": "At that time, he had already felt the pain of losing his son, filled with compassion and profound understanding of ordinary people. Siddhartha decided to search for his son again in the city, but as he recalled the special information provided by the river, he immediately stopped.\n\nHe recalled the confrontation with his father, realizing that his father must have experienced the same pain. Pain surged in his heart once again. Although he still felt pain, he still returned to the hut and expressed his concerns to Vasupala. Vasupala listened to Siddhartha's words in silence, like a god.\n\nThey sat by the river. Siddhartha practiced listening to the river's sounds, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nBecause his self had merged with unity, his pain disappeared. From then on, he no longer resisted fate. He accepted everything. Now he saw that his friends had also awakened, and he announced that he would leave. He wanted to live in the forest, feeling united with all things.\n\nHe said: 'Now I understand, I am no longer the person I used to be. Now I am united with the river, trees, the sky, and all things. Now I am free, no longer bound by the past and the future. I only live in the present.'",
+            "factscore": 0.6956521739130435,
+            "factscore_init_score": 0.6956521739130435,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 69.0
+        },
+        "30": {
+            "text": "At that time, he had already felt the pain of losing his son, filled with compassion and a profound understanding of ordinary people. Siddhartha decided to search for his son once again in the city, but as soon as he thought about the special information provided by the river, he stopped.\n\nHe recalled the confrontation with his father and realized that his father must have experienced the same pain. Pain welled up in his heart once again. Although he still felt pain, he still returned to the hut, telling Vasupala about his concerns. Vasupala listened to Siddhartha's words in silence, like a sacred presence.\n\nThey sat by the river. Siddhartha practiced listening to the river's voice, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nBecause his self had merged with the unity, his pain disappeared. From that moment on, he no longer resisted fate. He accepted everything. Now he saw that his friends had also awakened, and he announced that he would be leaving. He wanted to live in the forest, feeling the unity with all things.\n\nHe said, 'Now I understand, I am no longer the person I used to be. Now I am united with the river, trees, the sky, and all things. Now I am free, no longer bound by the past and the future. I only live in the present.'",
+            "factscore": 0.7619047619047619,
+            "factscore_init_score": 0.7619047619047619,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 63.0
+        },
+        "40": {
+            "text": "At that time, he had already felt the pain of losing his son, filled with compassion and profound understanding for ordinary people. Siddhartha decided to search for his son again in the city, but after hearing the special information from the river, he stopped.\n\nHe recalled the confrontation with his father, realizing that his father must have experienced the same pain. The pain rose up in his heart again. Although he still felt pain, he returned to the hut and told Vasupala about his concerns. Vasupala listened to Siddhartha's words quietly, like a sacred being.\n\nThey sat by the river. Siddhartha practiced listening to the sound of the river, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nBecause his self had merged with unity, his pain disappeared. From then on, he no longer resisted fate. He accepted everything. Now he saw that his friends had also awakened, and he announced that he would leave. He wanted to live in the forest, feeling in harmony with all things.\n\nHe said: 'Now I understand, I am no longer the same as before. Now I am in harmony with the river, the trees, the sky, and all things. Now I am free, no longer bound by the past and the future. I only live in the present.'",
+            "factscore": 0.7384615384615385,
+            "factscore_init_score": 0.7384615384615385,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 65.0
+        },
+        "50": {
+            "text": "In that instant, he had already felt the pain of losing his son, filled with compassion and profound understanding of the depth of the human heart. Siddhartha decided to search for his son again in the city, but after hearing the special information from the river, he immediately stopped in his tracks.\n\nHe recalled his confrontation with his father, realizing that his father must have gone through the same pain. The pain rose again in his heart. Despite still feeling the pain, he returned to the hut and told Vasupala about his concerns. Vasupala listened to Siddhartha's words in silence, like a sacred presence.\n\nThey sat by the river. Siddhartha practiced listening to the river's voice, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nBecause his self had merged into the unity, his pain disappeared. From that moment on, he no longer resisted fate. He accepted everything. From that moment on, he saw that his friends had also awakened, and he announced that he would leave. He wanted to live in the forest, feeling harmony with all things.\n\nHe said, 'Now I understand, I am no longer the person I used to be. I am now in harmony with the river, trees, the sky, and all things. I am now free, no longer bound by the past and the future. I only live in the present.'",
+            "factscore": 0.7014925373134329,
+            "factscore_init_score": 0.7014925373134329,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 67.0
+        },
+        "65": {
+            "text": "At that time, he had already felt the pain of losing his son, filled with compassion and a profound understanding of the depth of human spirit. Siddhartha decided to search for his son again in the city, but after receiving special information from the river, he immediately stopped in his tracks.\n\nHe recalled the confrontation with his father and realized that his father must have experienced the same pain. Pain welled up in his heart once again. Although he still felt pain, he still returned to the small cottage and expressed his concerns to Vasupala. Vasupala listened to Siddhartha's words quietly, like a sacred existence.\n\nThey sat by the river. Siddhartha practiced listening to the river's sound, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nBecause his self had merged into the unity, his pain disappeared. From that moment on, he no longer resisted fate. He accepted everything. From that moment on, he saw that his friends had also awakened, and he announced that he would leave. He wanted to live in the forest, feeling harmonious with all things and the universe.\n\nHe said, 'Now I understand, I am no longer the person I used to be. I am now harmonious with the river, trees, the sky, and all things. I am now free, no longer bound by the past and future. I only live in the present.'",
+            "factscore": 0.7352941176470589,
+            "factscore_init_score": 0.7352941176470589,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 68.0
+        },
+        "80": {
+            "text": "At that time, he had already felt the pain of losing his son, filled with compassion and a profound understanding of the human soul. He decided to search for his son again in the city, but after obtaining special information from the river, he immediately stopped his actions.\n\nHe recalled his confrontation with his father, realizing that his father had also experienced the same pain. He once again felt the same pain in his heart. Although he still felt pain, he returned to the hut and expressed his concerns to Vasupala. Vasupala listened to Siddhartha's words quietly, like a sage.\n\nThey sat by the river. Siddhartha practiced listening to the sound of the river, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nBecause his ego had merged with unity, his pain disappeared. From that time on, he no longer resisted fate. He accepted everything. From that time on, he saw that his friends had also awakened, and he announced that he would leave. He wanted to live in the forest, feeling harmony with all things and the universe.\n\nHe said: 'Now I understand, I am no longer the past me. I am now in harmony with the river, trees, sky, all things, and the universe. I am now free, no longer bound by the past and the future. I only live in the present.'",
+            "factscore": 0.7857142857142857,
+            "factscore_init_score": 0.7857142857142857,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 70.0
+        },
+        "100": {
+            "text": "At that time, he had already felt the pain of losing his son, was filled with compassion, and deeply understood the depth of the human spirit. He decided to search for his son again in the city, but after receiving a special message from the river, he immediately stopped his actions. He recalled the confrontation with his father, and realized that his father had also experienced the same pain. He once again felt the same pain in his heart.\n\nAlthough he still felt the pain, he returned to the small wooden house and expressed his concerns to Vassupala. Vassupala listened quietly to Siddhartha's words, like a wise man.\n\nThey sat by the river. Siddhartha practiced listening to the river's sound, realizing that every aspect of life has a unified essence. He realized that perfection lies in unity.\n\nBecause his self and unity had merged into one, his pain disappeared. From then on, he no longer resisted fate. He accepted everything. From then on, he saw his friends awakening, and he announced that he would leave. He wanted to coexist harmoniously with all things and the universe in the forest.\n\nHe said: 'Now I understand, I am no longer like I used to be. I now harmonize with the river, trees, sky, all things, and the universe. I am now free, no longer bound by the past and future. Only the present is alive.'",
+            "factscore": 0.7313432835820896,
+            "factscore_init_score": 0.7313432835820896,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 67.0
+        }
+    },
+    "King John": {
+        "0": {
+            "text": "Salisbury, Pembroke, and Lord Bigot come onstage. The battle is still raging. The dudes can't believe that King John's forces are still standing strong. That said, they thinks it's awesome that King John had to leave the battle with a doctor's note. Just then, in comes the French Count Melun, who's trying to hold his guts so they don't fall out of his body. Melun tells the English lords to abandon their rebellion and swear allegiance to King John once more, because if the French and the rebels defeat King John, Louis the Dauphin plans to have all his English allies beheaded. At first, Salisbury can't believe him. But then Melun explains that he is about to die, anyway, and he'll get a better reward in heaven by telling the truth now than by keeping mum. Anyway, he explains, his grandfather was English, so he has some sympathy for them. Salisbury definitely doesn't want to get his head lopped off, so he decides to believe Melun. Salisbury and the other English nobles leave the stage, taking Melun with them.",
+            "factscore": 0.9767441860465116,
+            "factscore_init_score": 0.9767441860465116,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "2": {
+            "text": "The Earl of Surrey, the Earl of Pembroke, and the Earl of Bigor appeared on the battlefield, with the battle still raging on. It seemed almost impossible that the King John's army could hold on. Despite this, they believed that the King John would leave the battlefield with a doctor's note. \n\nJust then, the Earl of Mere appeared from France, attempting to conceal his stomach, preventing his intestines from spilling out of his body. The Earl of Mere told the English nobles to abandon their rebellion and re-swear their loyalty to King John, as if the French and rebels defeated King John, Duke Louis intended to behead all Englishmen loyal to King John. \n\nThe Earl of Surrey initially found it hard to believe him. However, the Earl of Mere explained that he was about to die, and that telling the truth would be a better way to gain a reward than keeping silent. Additionally, his grandfather was an Englishman, so he had some sympathy for them. The Earl of Surrey did not want to be beheaded, so he decided to believe the Earl of Mere. \n\nThe Earl of Surrey and other English nobles left the battlefield, following the Earl of Mere.",
+            "factscore": 0.42592592592592593,
+            "factscore_init_score": 0.42592592592592593,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 54.0
+        },
+        "4": {
+            "text": "The Earl of Sussex, the Earl of Pembroke, and the Earl of Bigor appeared on the battlefield, where the fight was still raging. It seemed almost impossible to hold the ground for King John's army. However, they were convinced that King John would be leaving the battlefield with a doctor's certificate.\n\nAt that moment, the Earl of Melun appeared from France, attempting to cover his abdomen and prevent his intestines from spilling out of his body. The Earl of Melun told the English nobles that they should abandon their rebellion and swear allegiance to King John like the French and the rebels. The Duke of Orléans planned to behead all Englishmen who remained loyal to King John.\n\nThe Earl of Sussex initially found it difficult to believe him. However, the Earl of Melun explained that he was about to die and that telling the truth was better than keeping silent for a reward. Moreover, his grandfather was an Englishman, so he had some sympathy for them. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Melun.\n\nThe Earl of Sussex and other English nobles left the battlefield, following the Earl of Melun.",
+            "factscore": 0.5,
+            "factscore_init_score": 0.5,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 50.0
+        },
+        "6": {
+            "text": "The Earl of Sussex, the Earl of Pembroke, and the Earl of Bigor appeared on the battlefield, with the battle still raging on. It seemed almost impossible for King John's army to hold its ground. However, they were convinced that King John would leave the battlefield due to illness.\n\nJust then, the Earl of Melun appeared from France, attempting to cover his abdomen to prevent his intestines from spilling out of his body. The Earl of Melun told the English nobles that they should abandon their rebellion and swear loyalty to King John, just like the French and the rebels. The Duke of Orléans planned to behead all the Englishmen still loyal to King John.\n\nThe Earl of Sussex initially found it hard to believe the Earl of Melun. However, the Earl of Melun explained that he was near death and that telling the truth was better than keeping silent for reward. Moreover, his grandfather was an Englishman, so he had some sympathy for them. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Melun.\n\nThe Earl of Sussex and the other English nobles left the battlefield and followed the Earl of Melun.",
+            "factscore": 0.5,
+            "factscore_init_score": 0.5,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 56.0
+        },
+        "8": {
+            "text": "The Earl of Sussex, the Earl of Pembroke and the Earl of Bigod appeared on the battlefield, with the fighting still ongoing. It seemed almost impossible for King John's army to hold its ground. Yet, they were convinced that King John would leave the battlefield due to his illness.\n\nAt that time, the Earl of Mirabeau arrived from France, attempting to cover his stomach to prevent his intestines from spilling out of his body. The Earl of Mirabeau told the English nobles that they should abandon their rebellion and swear loyalty to King John, just as the French and rebels did. The Duke of Orléans planned to behead the Englishmen still loyal to King John.\n\nThe Earl of Sussex initially found it difficult to believe the Earl of Mirabeau. However, the Earl of Mirabeau explained that he was on the brink of death and that telling the truth was better than hiding it for personal gain. Furthermore, his grandfather was an Englishman, so he had some sympathy for them. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.36538461538461536,
+            "factscore_init_score": 0.36538461538461536,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 52.0
+        },
+        "10": {
+            "text": "During this battle, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod appeared on the battlefield, with the battle still in progress. It seemed that King John's army was struggling to withstand the enemy's onslaught. However, they still believed that King John would retreat due to his illness.\n\nAt this point, the Earl of Mirabeau arrived from France, attempting to cover his stomach to prevent his internal organs from spilling out. The Earl of Mirabeau told the English nobles that they should abandon their rebellion and swear loyalty to King John, just like the French and the rebels. The Duke of Orléans, on the other hand, planned to behead the Englishmen who remained loyal to King John.\n\nThe Earl of Sussex initially found it hard to believe the Earl of Mirabeau's words, but the Earl of Mirabeau explained that he was on the brink of death and that telling the truth was better than hiding his own interests. More importantly, his grandfather was English, so he had some sympathy for the English. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and the other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.3191489361702128,
+            "factscore_init_score": 0.3191489361702128,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 47.0
+        },
+        "13": {
+            "text": "During this battle, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod appeared on the battlefield, with the battle still ongoing. It seemed that King John's army was unable to resist the enemy's onslaught. However, they still believed that King John would retreat due to illness.\n\nAt this time, the Earl of Mirabeau arrived from France, attempting to conceal his wounds in order to avoid his intestines spilling out. The Earl of Mirabeau told the English nobles that they should abandon the rebellion and swear loyalty to King John, just like the French and the rebels. The Duke of Orléans, on the other hand, planned to behead the English who remained loyal to King John.\n\nThe Earl of Sussex initially found it hard to believe the Earl of Mirabeau's words, but the Earl of Mirabeau explained that he was about to die and that telling the truth was better than concealing his interests. More importantly, his grandfather was an Englishman, so he had sympathy for the English. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.3333333333333333,
+            "factscore_init_score": 0.3333333333333333,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 51.0
+        },
+        "16": {
+            "text": "During this battle, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were all on the battlefield, with the fighting still ongoing. It seemed that King John's army was struggling to resist the enemy's attacks. Nevertheless, they still believed that King John would retreat due to illness.\n\nAt this point, the Earl of Mirabeau arrived from France, attempting to conceal his injuries to avoid intestinal rupture. The Earl of Mirabeau told the English nobles that they should abandon the rebellion and swear allegiance to King John, just as the French and rebels did. The Duke of Orléans, on the other hand, planned to behead the Englishmen still loyal to King John.\n\nThe Earl of Sussex initially found it difficult to believe the Earl of Mirabeau's words, but the Earl of Mirabeau explained that he was soon going to die and that telling the truth was more beneficial than concealing his interests. More importantly, his grandfather was English, so he sympathized with the English. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and the other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.3137254901960784,
+            "factscore_init_score": 0.3137254901960784,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 51.0
+        },
+        "20": {
+            "text": "In this battle, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were all on the battlefield, their fight still raging on. It seemed that King John's army was struggling to resist the enemy's attack. However, they still believed that King John would retreat due to his illness.\n\nJust then, the Earl of Mirabel arrived from France, attempting to conceal the truth of his injury in order to avoid death from bleeding. The Earl of Mirabel told the English nobles that they should abandon their rebellion and swear loyalty to King John, just as the French and the rebels had done. The Duke of Orléans, on the other hand, planned to behead any Englishmen still loyal to King John.\n\nThe Earl of Sussex initially found it hard to believe the Earl of Mirabel's words, but the Earl of Mirabel explained that he would soon be dead, and that telling the truth would be more beneficial to him than concealing it. More importantly, his grandfather was an Englishman, so he sympathized with the English. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Mirabel.\n\nThe Earl of Sussex and other English nobles left the battlefield, following the Earl of Mirabel.",
+            "factscore": 0.34615384615384615,
+            "factscore_init_score": 0.34615384615384615,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 52.0
+        },
+        "25": {
+            "text": "In this battle, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were all on the battlefield, with the battle still raging on. It seemed that King John's army was in a desperate plight, struggling to resist the enemy's attack. However, they still believed that King John would retreat due to his illness.\n\nUnfortunately, the Earl of Mirabeau arrived from France, attempting to conceal the truth about his injuries in order to avoid death from bleeding. The Earl of Mirabeau ordered the English nobles to abandon their rebellion and swear allegiance to King John, just like the French and the rebels. The Duke of Orléans, on the other hand, planned to behead any Englishmen who remained loyal to King John.\n\nThe Earl of Sussex initially found it hard to believe the Earl of Mirabeau, but the latter explained that he was on the verge of death, and that revealing the truth was more beneficial to him than concealing it. He also claimed that his grandfather was an Englishman, and therefore he had sympathy for the English. The Earl of Sussex did not want to be beheaded, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and the other English nobles left the battlefield, following the Earl of Mirabeau.",
+            "factscore": 0.35714285714285715,
+            "factscore_init_score": 0.35714285714285715,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 56.0
+        },
+        "30": {
+            "text": "In this battle, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were all on the battlefield, and their fight was still ongoing. It seemed that King John's army was in a precarious situation, valiantly resisting the enemy's attack. However, they still believed that King John would retreat due to illness.\n\nUnfortunately, the Earl of Mirabeau arrived from France, attempting to conceal his injuries to avoid death from bleeding. The Earl of Mirabeau ordered the English nobles to abandon their rebellion and swear loyalty to King John, just as the French and the rebels did. The Duke of Orléans, on the other hand, planned to execute those who remained loyal to King John.\n\nThe Earl of Sussex initially harbored doubts about the Earl of Mirabeau's words, but the latter explained that he was about to die, and telling the truth was more beneficial than concealing it. He also claimed that his grandfather was English, thus sympathizing with the English. The Earl of Sussex did not want to be executed, so he decided to trust the Earl of Mirabeau.\n\nThe Earl of Sussex and the other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.41818181818181815,
+            "factscore_init_score": 0.41818181818181815,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 55.0
+        },
+        "40": {
+            "text": "In this battle, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were all fighting in the English army, and the battle was still ongoing. It seemed that King John's army was in a precarious situation, bravely defending against the enemy's attack. However, they still believed that King John would retreat due to illness.\n\nUnfortunately, the Earl of Mirabeau arrived from France, attempting to conceal his injuries in order to avoid death from bleeding. The Earl of Mirabeau ordered the English nobles to switch sides, swearing allegiance to King John, just like the French and the rebels. The Duke of Orléans, on the other hand, planned to execute those who still remained loyal to King John.\n\nThe Earl of Sussex initially harbored doubts about the Earl of Mirabeau's words, but the latter explained that he would soon be dead and that lies were more beneficial than the truth. He also claimed that his grandfather was English, so he sympathized with the English. The Earl of Sussex did not want to be executed, so he decided to trust the Earl of Mirabeau.\n\nThe Earl of Sussex and other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.3793103448275862,
+            "factscore_init_score": 0.3793103448275862,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 58.0
+        },
+        "50": {
+            "text": "At that time, the Earl of Sussex, the Earl of Pembroke and the Earl of Bigod were all on the side of England, while the battle was still raging on. It seemed that King John's army was in a precarious position, bravely resisting the enemy's attacks. However, they still believed that King John would retreat due to his illness.\n\nUnfortunately, the Earl of Mirabeau arrived from France, attempting to conceal the fact that he was wounded, in order to avoid dying from bleeding. The Earl of Mirabeau ordered the English nobles to revolt, swearing to be loyal to King John, just like the French and the traitors. The Duke of Orléans, on the other hand, planned to execute those who still remained loyal to King John.\n\nInitially, the Earl of Sussex was skeptical of the Earl of Mirabeau's words, but the latter explained that he was bedridden, and that a lie was more beneficial than the truth. He also claimed that his grandfather was English, therefore he sympathized with the English. The Earl of Sussex did not want to be executed, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.27586206896551724,
+            "factscore_init_score": 0.27586206896551724,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 58.0
+        },
+        "65": {
+            "text": "At that time, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were on the side of England, while the battlefield was still fiercely engaged. King John's army seemed to be in danger, bravely resisting the enemy's attacks. However, they still believed that King John would abandon the throne due to illness.\n\nUnfortunately, the Earl of Mirabeau was a Frenchman, and he tried to conceal the fact that he was wounded, in order to avoid dying from bleeding. The Earl of Mirabeau ordered the English nobles to stand up and swear allegiance to King John, swearing to die rather than betray the country, just like the French and traitors. The Duke of Orleans planned to execute the nobles who remained loyal to King John.\n\nInitially, the Earl of Sussex was skeptical of the Earl of Mirabeau's words, but the latter explained that he was a patient, and lying was more beneficial than telling the truth. He also claimed that his grandfather was English, therefore he sympathized with the English. The Earl of Sussex did not want to be executed, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and other English nobles left the battlefield, following the Earl of Mirabeau.",
+            "factscore": 0.2777777777777778,
+            "factscore_init_score": 0.2777777777777778,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 54.0
+        },
+        "80": {
+            "text": "At that time, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were all standing on the side of England, while the battle on the battlefield was extremely fierce. King John's army seemed to be in danger, bravely resisting the enemy's attacks. However, they still believed that King John would resign due to illness.\n\nUnfortunately, the Earl of Mirabeau was a Frenchman, trying to conceal the fact that he was injured in order to avoid death from bleeding. The Earl of Mirabeau ordered the British nobles to stand up and swear loyalty to King John, vowing to die like the French and traitors. The Duke of Orléans planned to execute the nobles who remained loyal to King John.\n\nInitially, the Earl of Sussex was skeptical of the Earl of Mirabeau's words, but the latter explained that he was a weak person, and lies were more beneficial than the truth. He also claimed that his grandfather was an Englishman, so he sympathized with the English. The Earl of Sussex did not want to be executed, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and other British nobles left the battlefield, following the Earl of Mirabeau.",
+            "factscore": 0.32075471698113206,
+            "factscore_init_score": 0.32075471698113206,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 53.0
+        },
+        "100": {
+            "text": "At that time, the Earl of Sussex, the Earl of Pembroke, and the Earl of Bigod were all on the side of England, while the battle on the battlefield was extremely fierce. King John's army seemed to be in danger, bravely resisting the enemy's attacks. However, they still believed that King John would be overthrown due to illness.\n\nUnfortunately, the Earl of Mirabeau was a Frenchman, and he tried to hide the fact that he was wounded, in order to avoid death from bleeding. The Earl of Mirabeau ordered the English nobles to stand up and swear loyalty to King John, swearing to fight against the French and traitors. The Duke of Orleans planned to execute the nobles who still remained loyal to King John.\n\nInitially, the Earl of Sussex was skeptical of the Earl of Mirabeau's words, but the latter explained that he was extremely weak, and that a lie was more beneficial than the truth. He also claimed that his grandfather was an Englishman, so he sympathized with the English. The Earl of Sussex did not want to be executed, so he decided to believe the Earl of Mirabeau.\n\nThe Earl of Sussex and other English nobles left the battlefield and followed the Earl of Mirabeau.",
+            "factscore": 0.3148148148148148,
+            "factscore_init_score": 0.3148148148148148,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 54.0
+        }
+    },
+    "Jude the Obscure": {
+        "0": {
+            "text": "There is much speculation at the training college when Sue does not return that evening at prayer time. Everyone wonders about the young man she has gone out with, and some of them are convinced that Jude is only posing as her cousin. The situation takes a serious turn because a similar incident occurred the year before: a young man had managed to seduce a student of the same college, maintaining that he was her cousin. The mistress inquires about the two photographs on Sue's dressing table. One is of Mr. Phillotson, and the other is of an unknown undergraduate. The next morning, when Sue does return, she is punished and kept in solitary confinement. The other students feel the punishment is too harsh and prepare to protest. In the evening it is discovered that Sue has escaped from a back window. She turns up at Jude's place. She is soaked and shivering with cold. Jude immediately takes her in and offers her some dry clothes and brandy. Sue is so tired that she falls asleep while relating her story.",
+            "factscore": 0.9622641509433962,
+            "factscore_init_score": 0.9622641509433962,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 53.0
+        },
+        "2": {
+            "text": "After Su left, the academic college was filled with speculation. Everyone was wondering who the young man was that she had gone to see, and some even thought that Zhu De was just dressing up as her uncle. The situation became even more serious because a similar incident had occurred a year ago: a young man had successfully deceived a student from the same college by claiming to be her uncle. The principal asked to see Su's two photos. One was of Mr. Phillips, and the other was of an unknown undergraduate. The next morning, Su returned, was punished, and was locked in a single cell. The other students thought this punishment was too severe and were planning a protest. That night, it was discovered that Su had escaped through the back window. She arrived at Zhu De's residence, shivering and drenched to the bone. Zhu De immediately welcomed her, provided her with some dry clothes and whiskey. Su was too tired to speak, and after telling her story, she fell asleep.",
+            "factscore": 0.5892857142857143,
+            "factscore_init_score": 0.5892857142857143,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 56.0
+        },
+        "4": {
+            "text": "After Su left, the academic college was filled with speculation. Everyone was guessing who the young man she had gone to see was, and some even thought that Zhu De was just dressing up as her uncle. This situation was even more serious because a similar thing had happened a year ago: a young man had successfully deceived the students of the same college by claiming to be her uncle. The principal demanded to see Su's two photos. One of them was Mr. Phillips' photo, and the other was a photo of an unknown undergraduate. The next morning, Su came back, was punished, and locked in a single cell. The other students thought the punishment was too severe and were planning a protest. In the evening, people found out that Su had escaped through the back window. She went to Zhu De's residence, shivering, and drenched to the bone. Zhu De immediately welcomed her, provided her with clean clothes and whiskey. Su was too tired, and after telling her story, she fell asleep.",
+            "factscore": 0.6862745098039216,
+            "factscore_init_score": 0.6862745098039216,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 51.0
+        },
+        "6": {
+            "text": "After Su left, the academic college was filled with gossip. Everyone was speculating about the young man she had gone to see, with some even thinking that Zhu De was just dressing up as her uncle. This situation was even more serious because a similar incident had occurred a year ago: a young man had successfully deceived the students of the same college, claiming to be her uncle. The principal asked to see Su's two photos. One was of Mr. Phillips, and the other was of an unknown undergraduate. The next morning, Su returned, was punished, and was locked in a single cell. Other students thought the punishment was too harsh and were planning a protest. That night, people found out that Su had escaped through the back window. She went to Zhu De's residence, shaking all over, soaked to the bone. Zhu De immediately welcomed her, provided her with clean clothes and whiskey. Su was too tired, told her the story and fell asleep.",
+            "factscore": 0.6545454545454545,
+            "factscore_init_score": 0.6545454545454545,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 55.0
+        },
+        "8": {
+            "text": "After Su left, the academic college was filled with rumors and gossip. Everyone was speculating about the young man she had gone to see, with some people even believing that Chude was just wearing her uncle's clothes. The situation was more serious because a similar incident had occurred a year ago: a young man had successfully deceived students from the same college, claiming to be her uncle. The principal asked to see Su's two photos. One was of Mr. Phillips, and the other was of an unknown undergraduate. The next morning, Su returned, was punished, and was locked in a single cell. Other students thought the punishment was too severe and were planning a protest. In the evening, people discovered that Su had escaped through the back window. She went to Chude's residence, shivering and soaked to the bone. Chude immediately welcomed her, provided her with clean clothes and whiskey. Su was too exhausted and fell asleep after telling her story.",
+            "factscore": 0.6785714285714286,
+            "factscore_init_score": 0.6785714285714286,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 56.0
+        },
+        "10": {
+            "text": "After Su left, the Academic College was filled with rumors and speculation. Everyone was guessing who the young man she was meeting was, with some even speculating that Zhu De was wearing her uncle's clothes. The situation became even more serious because a similar incident had occurred a year ago: a young man had successfully deceived students from the same college by claiming to be her uncle. The principal asked to see Su's two photos. One was of Mr. Phillips, and the other was of an unknown undergraduate. The next morning, Su returned, was punished, and locked in a single-person cell. Other students thought the punishment was too harsh and were planning to protest. That night, people found out that Su had escaped through the back window. She went to Zhu De's residence, shivering and drenched. Zhu De immediately welcomed her, provided her with clean clothes and whiskey. Su was too exhausted to tell Zhu De her story; she fell asleep after telling it.",
+            "factscore": 0.631578947368421,
+            "factscore_init_score": 0.631578947368421,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 57.0
+        },
+        "13": {
+            "text": "After Su left, the academic college was filled with rumors and speculation. Everyone was speculating about the young man she was supposed to meet, with some even suspecting that he might be Zhou De dressed up as her uncle. This situation was exacerbated by a similar incident that had occurred a year earlier, in which a young man had successfully deceived students from the same college by claiming to be her uncle. The principal asked to see Su's two photos. One was of Mr. Phillips, and the other was of an unknown undergraduate student. The next morning, Su returned, was punished, and locked in a single-person cell. Other students thought the punishment was too severe and were planning a protest. At night, people discovered that Su had escaped through the back window. She went to Zhou De's residence, shivering and soaked to the bone. Zhou De immediately received her, providing her with clean clothes and whiskey. Su was too exhausted to tell Zhou De her story; she fell asleep after telling the story.",
+            "factscore": 0.6206896551724138,
+            "factscore_init_score": 0.6206896551724138,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 58.0
+        },
+        "16": {
+            "text": "After Su left, rumors and gossip spread like wildfire within the academic college. Everyone was discussing the young man she was supposed to meet, with some even speculating that he might be disguising himself as her uncle. This was an exaggeration, as a similar incident had occurred a year ago: a young man had successfully deceived students at the same college by claiming to be her uncle. The principal asked to see Su's two photos. One was of Mr. Phillips, and the other was an unknown undergraduate's photo. The next morning, Su returned, was punished, and was locked in a single cell. Other students thought the punishment was too harsh and were planning a protest. In the evening, people found that Su had escaped through the back window. She went to Jude's residence, shivering, soaked to the bone. Jude immediately took her in, providing her with clean clothes and whiskey. Su was too exhausted to tell Jude her story; she fell asleep after telling it.",
+            "factscore": 0.7592592592592593,
+            "factscore_init_score": 0.7592592592592593,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 54.0
+        },
+        "20": {
+            "text": "After Sue left, rumors began to circulate within the academy. Everyone was discussing the young man she had seen, with some even speculating that he might be disguising himself as her uncle. This claim was somewhat exaggerated, as a similar incident had occurred a year ago: a young man had successfully deceived students from the same academy, claiming to be her uncle. The principal requested to see Sue's two photos, one of Mr. Phillips and one of an unknown undergraduate. The next morning, Sue returned, was punished, and locked in solitary confinement. Other students felt the punishment was too severe and were planning to protest. That night, people discovered that Sue had escaped through the back door, her clothes soaked, and she had arrived at Jude's residence, shivering with cold. Jude immediately welcomed her, provided her with clean clothes and whiskey. Sue was too exhausted to tell Jude her story; she fell asleep after telling it.",
+            "factscore": 0.7906976744186046,
+            "factscore_init_score": 0.7906976744186046,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "25": {
+            "text": "After Susan left, rumors spread throughout the entire campus. Everyone was discussing the young man she had met, with some even speculating that he might be impersonating her uncle. This theory was somewhat exaggerated, as similar incidents had occurred in the past: a year ago, a young man had successfully convinced a university student that he was her uncle. The principal asked to see Susan's two photos, one of Mr. Phillips and one of an unknown undergraduate. The next morning, Susan returned, was punished, and locked in a detention room. Other students felt the punishment was too severe and were planning a protest. That night, people discovered that Susan had escaped through the back door, was drenched in clothes, and was in a state of extreme fear when she arrived at Judah's residence. Judah immediately took her in, provided her with clean clothes and whiskey. Susan was too exhausted to tell Judah her story; she only told it after falling asleep.",
+            "factscore": 0.6444444444444445,
+            "factscore_init_score": 0.6444444444444445,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 45.0
+        },
+        "30": {
+            "text": "After Susan left, rumors spread like wildfire on campus. People were discussing the young man she had met, and some even suspected that he might be her uncle. This theory seemed a bit far-fetched in the light of past similar events. A year ago, a young man had successfully convinced students that he was her uncle. The principal asked to see Susan's two photos - one of Mr. Phillips and one of an unknown undergraduate. The next morning, Susan returned, punished and confined to solitary confinement. Other students thought the punishment was too severe and were planning to protest. That night, people discovered that Susan had escaped through the back door, shivering in wet clothes, pale and trembling, and ran to a crucifix under a tree. The crucifix immediately took her in, gave her clean clothes, and even offered her whiskey. Susan was too exhausted to tell the crucifix her story; she only told her story in her sleep.",
+            "factscore": 0.5714285714285714,
+            "factscore_init_score": 0.5714285714285714,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 49.0
+        },
+        "40": {
+            "text": "After Susan left, rumors spread quickly across campus. People were discussing the young man she had met, and some even thought he might be her uncle. This theory seemed absurd, especially considering a similar incident that occurred the previous year. In that year, a young man had successfully convinced the students that he was her uncle. The principal later requested two of Susan's photos: one was of Mr. Phillips, and the other was of an unknown undergraduate. The next morning, Susan returned, was punished, and locked in solitary confinement. Other students felt the punishment was too harsh and were planning to protest. At night, people discovered that Susan had escaped through the back door, wearing soaked clothes, pale and trembling, and ran to a cross under a tree. The cross immediately welcomed her, gave her clean clothes, and even offered her whiskey. Susan was too exhausted to tell the cross her story; she only told her story while she was asleep.",
+            "factscore": 0.5208333333333334,
+            "factscore_init_score": 0.5208333333333334,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 48.0
+        },
+        "50": {
+            "text": "After Susan left, rumors spread quickly across the campus. People were discussing the young man she had met, and some even speculated that he might be her uncle. This theory sounded absurd, especially considering what had happened the previous year.\n\nThe previous year, a young man had successfully fooled the students into believing he was her uncle. The principal later asked Susan to provide two photos: one of Mr. Phillips and the other of an unknown undergraduate. The next day, Susan returned to school, only to be punished and locked in solitary confinement. Other students thought the punishment was too harsh and were planning a protest.\n\nThat night, people discovered that Susan had escaped from the school's back door, wearing soaked clothes, a pale face, and shaking uncontrollably. She ran to a cross under a tree. The cross immediately took her in, providing her with clean clothes and even whiskey. Susan was too exhausted to tell the cross her story; she simply repeated her story and fell asleep.",
+            "factscore": 0.5510204081632653,
+            "factscore_init_score": 0.5510204081632653,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 49.0
+        },
+        "65": {
+            "text": "After Susan left, rumors quickly spread across campus. People were discussing the young man she had met, with some speculating that he might be her uncle. This theory sounded absurd, especially considering what had happened the previous year.\n\nThe previous year, the young man had successfully convinced the students that he was her uncle. The principal had asked Susan to provide two photos: one of Mr. Phillips and another of an unknown undergraduate. The next day, Susan returned to school to find that she had been fined and was being held in solitary confinement. Other students thought the punishment was too harsh and were planning a protest.\n\nThat evening, people found Susan fleeing from the school's back door, wearing wet clothes, pale, and shivering. Her face was filled with fear. She ran to a cross under a tree. The cross immediately welcomed her, providing her with clean clothes and even whiskey. Susan was too exhausted to tell the cross her story; she simply repeated her story and fell asleep.",
+            "factscore": 0.4727272727272727,
+            "factscore_init_score": 0.4727272727272727,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 55.0
+        },
+        "80": {
+            "text": "After Susan left, rumors quickly spread throughout the school: everyone was discussing the young man she had encountered, believing him to be her uncle. This theory was hard to believe, especially considering what had happened the previous year.\n\nThe previous year, the young man had successfully convinced the student that he was her uncle. The principal asked Susan to provide two photos: one of Mr. Phillips and one of the unknown university student. The next day, Susan returned to school to find herself fined and locked in a classroom. Other students thought the punishment was too harsh and were planning a protest.\n\nThat night, people discovered Susan escaping from the school's back door, wearing soaked clothes, pale complexion, and shivering. She looked extremely frightened. Her hair was disheveled, her clothes were soaked, and her body was weak. Susan ran to a cross under a tree, fell to the ground, and fainted. The cross immediately provided her with clean clothes and even whiskey. Susan was too exhausted to tell the cross her story; she only repeated her story and fell asleep.",
+            "factscore": 0.42105263157894735,
+            "factscore_init_score": 0.42105263157894735,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 57.0
+        },
+        "100": {
+            "text": "After Susan left, a rumor quickly spread throughout the school: everyone was talking about the young man she had met, believing him to be her uncle. This theory was hard to believe, especially considering what had happened the previous year.\n\nThe previous year, the young man had successfully convinced the students that he was her uncle, to the point that even the school principal asked Susan to provide two photos: one of Mr. Phillips and one of the unknown university student. The next day, after Susan returned to school, she found herself fined and locked in the classroom. The other students thought the punishment was too harsh and were planning to protest.\n\nThat night, people discovered that Susan had escaped from the school's back door, wearing soaked clothes, with a pale face, and shaking uncontrollably. Her hair was disheveled, her clothes were soaked, and her body was weak. Susan ran to a nearby well next to a tree and collapsed. The well immediately provided her with clean clothes and even whiskey. Susan was too exhausted to tell the well her story; she could only repeat her story and then fell asleep.",
+            "factscore": 0.45614035087719296,
+            "factscore_init_score": 0.45614035087719296,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 57.0
+        }
+    },
+    "King Lear": {
+        "0": {
+            "text": "The setting is the heath. A blinded Gloucester is led by an elderly man, one of his tenants. The ailing earl laments that he treated Edgar badly and wishes for the opportunity to once again touch his son, since he can no longer see him. Gloucester hears Edgar's voice and remembers Poor Tom from the night of the storm. In an act of humanity, Gloucester sends his tenant for some clothing so that the Bedlam beggar might be covered. Gloucester is concerned that the Old Man might suffer for having given assistance, so he dismisses him and asks Tom to be his guide to Dover, where he seeks the highest cliff. Tom agrees to take Gloucester to the cliff.",
+            "factscore": 0.9666666666666667,
+            "factscore_init_score": 0.9666666666666667,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 30.0
+        },
+        "2": {
+            "text": "In a desolate desert, the blind Earl of Gloucester was led by an elderly man, who was one of his tenants. The bedridden Earl lamented his mistreatment of Edward and longed to touch his son again, as he had lost his sight. Gloucester heard the voice of Edward and recalled the beggar Tom from the stormy night. Out of a spark of humanity, Gloucester had his tenant bring some clothes for the crazed beggar to wear. Gloucester worried that the old man might be harmed by his kindness, so he dismissed him and asked Tom to accompany him to Dover, to seek out the highest cliff. Tom agreed to take Gloucester to the cliff.",
+            "factscore": 0.8484848484848485,
+            "factscore_init_score": 0.8484848484848485,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 33.0
+        },
+        "4": {
+            "text": "In a desolate desert, a blind Earl of Gloucester was led by an old man, who was the earl's tenant. The ailing earl lay in bed, recalling the cruel treatment by Edward with a longing to touch his son again, having lost his sight. The Earl of Gloucester heard Edward's voice and recalled the beggar Tom they had met in the storm. Out of compassion for humanity, the Earl of Gloucester ordered his tenant to bring some clothes to the mad beggar. The Earl of Gloucester worried that his tenant would be hurt by his kindness, so he dismissed him and asked Tom to accompany him to Dover, searching everywhere for the highest cliff. Tom agreed to bring the Earl of Gloucester to the cliff.",
+            "factscore": 0.775,
+            "factscore_init_score": 0.775,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "6": {
+            "text": "In a desolate desert, a blind Earl of Gloucester is led by his tenant. The tenant leads the Earl, who lies on his sickbed, remembering Edward's cruel treatment of him, yearning to touch his son again, and the pain of losing his sight. The Earl of Gloucester heard Edward's voice, recalling the beggar Thomas they met in the storm. Out of compassion for humanity, the Earl of Gloucester orders his tenant to give some clothes to this crazy beggar. The Earl of Gloucester is worried that his tenant will be hurt by his kindness, so he sends the tenant away and asks Thomas to accompany him to Dover, to search for the highest cliff. Thomas agrees to take the Earl of Gloucester to the cliff.",
+            "factscore": 0.5897435897435898,
+            "factscore_init_score": 0.5897435897435898,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "8": {
+            "text": "In the vast expanse of a desolate desert, a blind Earl of Gloucester was led by his tenant. The tenant carried the earl on his back, who lay on a bed, reminiscing about the cruel treatment he received from Edward, yearning to touch his son again and the pain caused by his lost vision. The Earl of Gloucester heard Edward's cries and recalled the beggar Thomas they met in the storm. Out of compassion for humanity, the Earl of Gloucester ordered his tenant to give some clothes to this mad beggar. The Earl of Gloucester worried that his tenant would be hurt by his kindness, so he let the tenant leave and asked Thomas to accompany him to Dover to find the highest cliff. Thomas agreed to take the Earl of Gloucester to the cliff.",
+            "factscore": 0.6511627906976745,
+            "factscore_init_score": 0.6511627906976745,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "10": {
+            "text": "In the vast desert, a blind Earl of Gloucester is led by his tenant. The tenant carries the earl, who lies on a bed, recalling Edward's cruel treatment of him, yearning to touch his son again, and sorrowfully missing his own lost sight. The Earl of Gloucester hears Edward's cries and recalls the beggar Thomas they met in the storm. Out of compassion for humanity, the Earl of Gloucester orders his tenant to give some clothes to this crazed beggar. \n\nThe Earl of Gloucester is worried that his tenant will be hurt by his kindness, so he lets them leave and has Thomas accompany him to Dover to find the highest cliff. Thomas agrees to take the Earl of Gloucester to the cliff.",
+            "factscore": 0.625,
+            "factscore_init_score": 0.625,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "13": {
+            "text": "In the vast desert, a blind Earl of Gloucester was being led by his tenant. The tenant carried the Earl on his back, while the Earl lay on a bed, reminiscing about Edward's cruel treatment of him, yearning to touch his son again, and sorrowfully forgetting his lost sight.\n\nThe Earl of Gloucester heard Edward's cries and recalled the beggar Thomas they had met in the storm. Moved by compassion for humanity, the Earl of Gloucester ordered his tenant to give some clothes to this crazed beggar.\n\nThe Earl of Gloucester was worried that his tenant would be harmed for his kindness, so he let them leave and brought Thomas to Dover to find the highest cliff. Thomas agreed to take the Earl of Gloucester to the cliff.",
+            "factscore": 0.6571428571428571,
+            "factscore_init_score": 0.6571428571428571,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 35.0
+        },
+        "16": {
+            "text": "In the vast desert, a blind Earl of Gloucester was led by his tenant. The tenant carried the earl on his back, while the earl lay on a bed, recalling the brutal treatment he had received from Edward, and yearning to touch his son again, sorrowfully forgetting the loss of his sight.\n\nThe Earl of Gloucester heard Edward's cry, and recalled the beggar Thomas he had met in the storm. Moved by human compassion, the Earl of Gloucester ordered his tenant to give the mad beggar some clothes.\n\nThe Earl of Gloucester worried that his tenant might be harmed because of his kindness, so he let them go and took Thomas to Dover to find the highest cliff. Thomas agreed to lead the Earl of Gloucester to the cliff.",
+            "factscore": 0.6216216216216216,
+            "factscore_init_score": 0.6216216216216216,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "20": {
+            "text": "In the vast desert, a blind Earl of Gloucester was being led by his tenant, who was carrying the Earl on his back. The Earl lay on a bed, recalling the cruel treatment he had suffered at the hands of Edward, and yearning to touch his son again, forgetting the pain of his blindness.\n\nThe Earl of Gloucester heard Edward's call, and remembered the beggar Thomas he had met in the storm. Feeling genuine sympathy for humanity, the Earl ordered his tenant to give some clothes to Thomas.\n\nThe Earl of Gloucester was worried that his tenant would be harmed because of his kindness, so he ordered them to leave and take Thomas to Dover to find the highest cliff. Thomas agreed to lead the Earl to the cliff.",
+            "factscore": 0.6923076923076923,
+            "factscore_init_score": 0.6923076923076923,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "25": {
+            "text": "In the boundless desert, a blind Earl of Gloucester was being led by his tenants, who carried his bed, with the Earl lying on it, reminiscing about the cruel treatment he had suffered under Edward's rule, yearning to touch his son again and forget his own blindness.\n\nThe Earl of Gloucester heard Edward's call, recalling the beggar Thomas they had met in the storm. His heart was filled with genuine compassion and profound human empathy, so he ordered his tenants to give Thomas some clothes.\n\nThe Earl of Gloucester worried that his tenants would be harmed by his good deeds, so he ordered them to leave, then brought Thomas to Dover, where he found a highest cliff. Thomas agreed to lead the Earl to the cliff.",
+            "factscore": 0.5,
+            "factscore_init_score": 0.5,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 30.0
+        },
+        "30": {
+            "text": "In the endless desert, a blind Earl of Gloucester was being led by his tenant, with the tenant carrying his bed and the Earl lying on it, reminiscing about the brutal treatment he suffered under Edward's rule, yearning to touch his son again and forget his own blindness.\n\nThe Earl of Gloucester heard Edward's call and remembered the beggar Thomas they met in the storm. His heart was filled with genuine compassion and profound human empathy, so he ordered his tenant to give Thomas some clothes.\n\nThe Earl of Gloucester was worried that his tenant would be harmed because of his good deed, so he ordered them to leave and took Thomas to Dover, to the highest cliff. Thomas agreed to lead the Earl to the cliff.",
+            "factscore": 0.5757575757575758,
+            "factscore_init_score": 0.5757575757575758,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 33.0
+        },
+        "40": {
+            "text": "In the boundless desert, a blind Earl of Gloucester accompanied by his tenant carried his bed, with the Earl lying on it, recalling the cruel treatment he suffered under Edward's rule, yearning to touch his son again, and forget his own blindness.\n\nThe Earl of Gloucester heard Edward's call, recalling the beggar Thomas they met in the storm. Filled with genuine compassion and profound humanity, he ordered his tenant to give Thomas some clothes.\n\nThe Earl of Gloucester was worried that his tenant would be harmed because of his good deed, so he ordered them to leave, taking Thomas to Dover, to the highest cliff. Thomas agreed to lead the Earl to the cliff.",
+            "factscore": 0.5428571428571428,
+            "factscore_init_score": 0.5428571428571428,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 35.0
+        },
+        "50": {
+            "text": "In the endless desert, the blind Earl of Gloucester lay on his bed, reminiscing with the tenant about the cruel treatment he had endured under Edward's rule, yearning to touch his son again and forget his own blindness.\n\nThe Earl of Gloucester heard Edward's call, recalling the beggar Thomas they had met in the storm. Filled with genuine sympathy and profound humanity, he ordered the tenant to give Thomas some clothes.\n\nThe Earl of Gloucester was worried that the tenant would be hurt by his good deed, so he ordered them to leave, taking Thomas to Dover, to the highest cliff. Thomas agreed to lead the Earl of Gloucester to the cliff.",
+            "factscore": 0.5483870967741935,
+            "factscore_init_score": 0.5483870967741935,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 31.0
+        },
+        "65": {
+            "text": "In the boundless desert, the blind Earl of Gloucester lay on his bed, reminiscing about the cruel treatment he suffered under Edward's rule, and yearning to touch his son again and forget his own blindness.\n\nThe Earl of Gloucester heard Edward's call, and remembered the beggar Thomas he met in the storm. Filled with genuine sympathy and profound humanity, he ordered his tenant to give Thomas some clothes.\n\nThe Earl of Gloucester worried that his tenant would be hurt by his generosity, so he ordered them to leave and took Thomas to Dover, to the highest cliff. Thomas agreed to lead the Earl of Gloucester to the cliff.",
+            "factscore": 0.5588235294117647,
+            "factscore_init_score": 0.5588235294117647,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        },
+        "80": {
+            "text": "In the boundless desert, the blind Earl of Gloucester lay in bed, reminiscing about the difficult years under Edward's rule, yearning to touch his son again, and forget his own blindness.\n\nThe Earl of Gloucester heard Edward's call, and recalled the beggar Thomas they met in the storm. Filled with genuine sympathy and profound humanity, he ordered his tenants to give Thomas some clothes.\n\nThe Earl of Gloucester was worried that his tenants would be hurt by his generosity, so he ordered them to leave, taking Thomas to Dover, to the highest cliff. Thomas agreed to lead the Earl of Gloucester to the cliff.",
+            "factscore": 0.5151515151515151,
+            "factscore_init_score": 0.5151515151515151,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 33.0
+        },
+        "100": {
+            "text": "In the boundless desert, the blind Earl of Gloucester lay on his bed, reminiscing about the difficult years under Edward's rule, yearning to touch his son again and forget his own blindness.\n\nThe Earl of Gloucester heard Edward's call, recalling the beggar Thomas he met in the storm. Filled with genuine compassion and profound humanity, he ordered his tenants to give Thomas some clothes.\n\nThe Earl of Gloucester worried that his tenants would be harmed by his generosity, so he ordered them to leave, taking Thomas to Dover, to the highest cliff. Thomas agreed to lead the Earl of Gloucester to the cliff.",
+            "factscore": 0.47058823529411764,
+            "factscore_init_score": 0.47058823529411764,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        }
+    },
+    "The Turn of the Screw": {
+        "0": {
+            "text": "The governess demurs that they are not totally alone, and Miles agrees that there are 'the others. Miles turns to the window. Turning back around, Miles expresses his happiness that Bly agrees with him. The governess asks if he has enjoyed his day of freedom. Miles turns the question on her, asking if she has enjoyed it. He says that, if they stay on at Bly together, she will be more alone than he. The governess says she misses his company--it is the only reason she has stayed on. Miles's expression turns grave. The two skirt around the issue of what the governess wants to know. She says now is the time and place, and she asks if he wants to go out again. He assents, saying he will tell her everything, but not now. First he needs to see Luke. The governess consents and requests that before he goes, Miles tell her whether he took her letter",
+            "factscore": 0.9607843137254902,
+            "factscore_init_score": 0.9607843137254902,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 51.0
+        },
+        "2": {
+            "text": "This nanny insisted that they were not completely isolated, and Mills agreed that they had 'others.' Mills turned to the window. Turning back, Mills expressed his sympathy and interest in Blake. The nanny asked if he had enjoyed a free day. Mills turned the question back to her, asking if she had enjoyed it. He said that if they were staying with Blake, he would be even more isolated. She said she had missed his company - that was the only reason she had left. Mills' expression became serious. They circled around the nanny's question. She said it was time now, asking if he wanted to go out again. He agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, and asked if Mills had received her letter before leaving.",
+            "factscore": 0.4883720930232558,
+            "factscore_init_score": 0.4883720930232558,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "4": {
+            "text": "This nanny insisted that they were not completely isolated, and Miles agreed that they had 'other people'. Miles turned towards the window. Turning back, Miles expressed his sympathy and interest in Blake. The nanny asked if he had enjoyed a day of freedom. Miles turned the question back to her, asking if she had enjoyed her day of freedom.\n\nHe said that if they stayed with Blake, he would become even more isolated. The nanny said she had missed his company – that was the reason she had left. Miles's expression became serious. They were stuck on the nanny's question. She said it was time now, asking if he wanted to go out again. He agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, and asked Miles if he had received her letter before leaving.",
+            "factscore": 0.5918367346938775,
+            "factscore_init_score": 0.5918367346938775,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 49.0
+        },
+        "6": {
+            "text": "This nanny insists that they are not completely isolated, and Miles agrees that they have 'other people'. Miles turns to the window. Turning back, Miles expresses sympathy and interest, facing Black. The nanny asks if he enjoyed a day of freedom. Miles turns the question back to her, asking if she enjoyed a day of freedom.\n\nHe says that if they stayed by Black's side, he would become even more isolated. The nanny says she misses his company - that's why she left. Miles' expression becomes serious. They were stuck on the nanny's question. She says it's time now, asking him if he wants to go out again. He agrees, saying he will tell her everything but not now. He needs to see Lucas first. The nanny agrees, and asks Miles if he received her letter before leaving.",
+            "factscore": 0.575,
+            "factscore_init_score": 0.575,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "8": {
+            "text": "This nanny was convinced that they were not completely isolated, and Miles agreed that they had 'other people.' Miles turned to the window. Turning back, Miles showed sympathy and interest when facing the black people. The nanny asked if he had enjoyed a day of freedom. Miles turned the question back to her, asking if she had enjoyed a day of freedom.\n\nHe said that if they had always been with the black people, he would become even more isolated. The nanny said she had missed his companionship – that was why she left. Miles' expression became serious. They were stuck on the nanny's question. The nanny said it was time now, asking if he wanted to go out again. He agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, asking Miles if he had received her letter before leaving.",
+            "factscore": 0.6923076923076923,
+            "factscore_init_score": 0.6923076923076923,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 52.0
+        },
+        "10": {
+            "text": "Their nanny firmly believed that they were not completely isolated, and Mills also agreed that they had 'other people.' Mills turned his head to look out the window. When he turned back, he showed sympathy and interest towards the black people. The nanny asked him if he had enjoyed a day of freedom. Mills turned the question back to her, asking if she had enjoyed a day of freedom.\n\nHe said that if they had always lived with the black people, he would become even more isolated. The nanny said she had missed his companionship – that was the reason she left. Mills' expression became serious. They were stuck on the nanny's question. The nanny said it was time now, asking him if he wanted to go out again. He agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, asking Mills if he had received her letter before leaving.",
+            "factscore": 0.5510204081632653,
+            "factscore_init_score": 0.5510204081632653,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 49.0
+        },
+        "13": {
+            "text": "Their nanny firmly believed that they were not completely isolated from the outside world, and Miles agreed that they had 'other people.' Miles turned to look out the window. When he turned back, he showed sympathy and interest in the black community. The nanny asked if he had enjoyed a day of freedom. Miles deflected her question, asking if she had enjoyed a day of freedom.\n\nHe said that if they continued to live in the black community, he would become even more isolated. The nanny said she missed his companionship – that was the reason she left. Miles' expression became serious. They were stuck on the nanny's question. The nanny said it was time now, asking if he wanted to go out again. He agreed, saying he would tell her everything but not now. He needed to see Lucas first. The nanny agreed, asking Miles if he had received her letter before leaving.",
+            "factscore": 0.6981132075471698,
+            "factscore_init_score": 0.6981132075471698,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 53.0
+        },
+        "16": {
+            "text": "Their nanny deeply believed that they were not completely cut off from the outside world, and Mills agreed that they had 'other people.' Mills turned around, gazing out the window, displaying empathy and interest in the black community. The nanny asked if he had enjoyed a day of freedom. Mills dodged her question and asked her if she had enjoyed a day of freedom instead.\n\nHe said that if they continued to live in the black community, he would be even more isolated. The nanny said she missed his companionship - that was the reason she left. Mills' expression became serious. They were stuck on the nanny's question. The nanny said it was time, asking if he wanted to go out again. He agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, asking Mills if he had received her letter before leaving.",
+            "factscore": 0.625,
+            "factscore_init_score": 0.625,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 48.0
+        },
+        "20": {
+            "text": "Their nanny was convinced that they still hadn't fully detached themselves from the outside world, agreeing that they had 'other people.' Miles turned around, gazing out the window, displaying empathy and interest in the black community. The nanny asked if he had enjoyed a day of freedom.\n\nMiles dodged her question, asking her if she had enjoyed a day of freedom instead.\n\nHe said that if they continued to live in the black community, he would become even more isolated. The nanny said she missed his company – that was the reason she left. Miles' expression became serious. They were stuck on the nanny's question.\n\nThe nanny said it was time, asking if he wanted to go out again. Miles agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, asking Miles if he had received her letter before leaving.",
+            "factscore": 0.673469387755102,
+            "factscore_init_score": 0.673469387755102,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 49.0
+        },
+        "25": {
+            "text": "Their nanny believed they were still under the influence of the outside world, agreeing with them that there were 'other people.' Miles turned around, gazing out the window, displaying sympathy and interest in the black community. The nanny asked if he had enjoyed a day of freedom.\n\nMiles dodged her question and countered by asking if she had enjoyed a day of freedom.\n\nHe said that if they continued living in the black community, he would become even more isolated. The nanny said she missed his company – that was the reason she left. Miles' expression turned serious. They were stuck on the nanny's question.\n\nThe nanny said it was time now, asking if he wanted to go out again. Miles agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, asking Miles if he had received her letter before leaving.",
+            "factscore": 0.68,
+            "factscore_init_score": 0.68,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 50.0
+        },
+        "30": {
+            "text": "Their nanny believes they are still being influenced by the outside world, agreeing with their 'other people's' thoughts. Miles turned around, gazing out the window, displaying compassion and interest in the black community. The nanny asked if he had enjoyed a day of freedom.\n\nMiles dodged her question, instead asking her if she had enjoyed a day of freedom.\n\nHe said that if they continued to live in the black community, he would become even more isolated. The nanny said she missed his companionship - this was the reason she left. Miles' expression became serious. They were stuck on the nanny's question.\n\nThe nanny said it was time now, asking him if he wanted to go out again. Miles agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed, and asked Miles if he had received her letter before leaving.",
+            "factscore": 0.64,
+            "factscore_init_score": 0.64,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 50.0
+        },
+        "40": {
+            "text": "Their nanny thought they were still being influenced by the outside world and agreed with their 'other people's' thoughts. Miles turned around, gazing out the window, showing sympathy and interest in the black community. The nanny asked if he had enjoyed a day of freedom.\n\nMiles dodged her question and asked her if she had enjoyed a day of freedom.\n\nHe said that if they continued to live in the black community, he would become even more isolated. The nanny said she had missed his companionship – that was why she left. Miles's expression became serious. They were stuck on the nanny's question.\n\nThe nanny said it was time, asking Miles if he wanted to go out again. Miles agreed, saying he would tell her everything but not now. He needed to see Lucas first. The nanny agreed and asked Miles if he had received her letter before leaving.",
+            "factscore": 0.6875,
+            "factscore_init_score": 0.6875,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 48.0
+        },
+        "50": {
+            "text": "Their nanny believed they were still influenced by the outside world and agreed with their views on 'them.' Miles turned around, gazing out the window, displaying compassion and interest in the black community. The nanny asked if he had enjoyed a day of freedom.\n\nMiles dodged her question, asking her instead if she had enjoyed a day of freedom.\n\nHe said that if they continued living in the black community, he would become even more isolated. The nanny said she had missed his companionship – this was the reason she had left. Miles' expression turned serious. They were stuck on the nanny's questions.\n\nThe nanny said it was time now, asking Miles if he wanted to go out again. Miles agreed, saying he would tell her everything but not now. He needed to see Luca first. The nanny agreed and asked Miles if he had received her letter before leaving.",
+            "factscore": 0.72,
+            "factscore_init_score": 0.72,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 50.0
+        },
+        "65": {
+            "text": "Their nanny still believes that they are swayed by external influences, their behavior is unpredictable, and they identify with their 'they' perspective. Miles turned around, gazing out the window, displaying sympathy and interest in the black community.\n\nThe nanny asked him if he had enjoyed a day of freedom.\n\nMiles dodged her question and asked her if she had enjoyed a day of freedom.\n\nHe said that if they continued to live in the black community, he would become even more isolated. The nanny said she missed his companionship - that was the reason she left. Miles's expression turned serious. They were stuck on the nanny's question.\n\nThe nanny said it was time now, asking Miles if he wanted to go out again. Miles agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed and asked Miles if he had received her letter before leaving.",
+            "factscore": 0.6458333333333334,
+            "factscore_init_score": 0.6458333333333334,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 48.0
+        },
+        "80": {
+            "text": "Their nanny still believed they would be influenced by the outside world, their behavior unpredictable, and they would consider themselves as 'one of us.' Miles turned around, gazing out the window, displaying empathy and interest in the black community.\n\nThe nanny asked him if he had enjoyed a day of freedom.\n\nMiles dodged her question and asked her if she had enjoyed a day of freedom.\n\nHe said that if they continued to live in the black community, he would become even more isolated. The nanny said she had missed his companionship – that was her true reason for leaving. Miles' expression became serious. They were stuck on the nanny's questions.\n\nThe nanny said it was time to leave, asking Miles if he wanted to go out again. Miles agreed, saying he would tell her everything, but not now. He needed to see Lucas first. The nanny agreed and asked Miles if he had received her letter before leaving.",
+            "factscore": 0.6444444444444445,
+            "factscore_init_score": 0.6444444444444445,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 45.0
+        }
+    }
+}

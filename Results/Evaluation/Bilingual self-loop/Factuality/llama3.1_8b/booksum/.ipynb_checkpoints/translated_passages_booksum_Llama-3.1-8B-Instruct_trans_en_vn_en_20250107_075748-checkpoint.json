@@ -1,0 +1,344 @@
+{
+    "Love's Labours Lost": {
+        "0": {
+            "text": "Holofernes and Nathaniel discuss Don Armado, with whom Nathaniel has been conversing. They mock his inferior intellect, criticizing his pronunciation and saying that they abhor 'such rackers of orthography' . Armado, Moth, and Costard enter; Armado tells the learned men that the King has asked him to prepare 'some delightful ostentation, or show, or pageant, or antick or firework'  to entertain the Princess and her party. He asks Holofernes and Nathaniel for their help in planning this entertainment, and Holofernes suggests that they present a show of the Nine Worthies. The men discuss who will play the roles of the Worthies, with Holofernes saying that he will play three of the roles himself. They then go off to plan their show.",
+            "factscore": 0.9705882352941176,
+            "factscore_init_score": 0.9705882352941176,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        },
+        "2": {
+            "text": "Holofernes and Nathaniel discussed Don Armado, a man whom Nathaniel had previously conversed with. They mocked his lack of intelligence, criticized his pronunciation and said they hated 'people like that with grammar'. Armado, Moth, and Costard entered; Armado told the scholars that the King had requested him to prepare 'the greatest show, or a show, or a show, or a show, or a show, or a fire show' to entertain the princess and her guests. He asked Holofernes and Nathaniel for help in planning the show, and Holofernes suggested that they would perform a show about nine worthy men. The men discussed who would play the worthy men, with Holofernes saying he would play three roles himself. They then went out to plan the show.",
+            "factscore": 0.8620689655172413,
+            "factscore_init_score": 0.8620689655172413,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 29.0
+        },
+        "4": {
+            "text": "Holofernes and Nathaniel discussed Don Armado, a man Nathaniel had spoken to earlier. They criticized his lack of intelligence, mocked his pronunciation and said they hated 'people like that with grammar'. Armado, Moth, and Costard entered; Armado told the scholars that the king had asked him to prepare 'the greatest show, or a show, or a show, or a show, or a show, or a fire show' to entertain the princess and her guests. He asked Holofernes and Nathaniel for help in planning the show and Holofernes suggested they perform a show about nine dignitaries. The young men discussed who would play the dignitaries, with Holofernes saying he would play three roles for himself. They then stepped out to plan the show.",
+            "factscore": 0.8064516129032258,
+            "factscore_init_score": 0.8064516129032258,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 31.0
+        },
+        "6": {
+            "text": "Holofernes and Nathaniel discussed Don Armado, a man Nathaniel had spoken to earlier. They criticized his lack of intelligence, mocked his pronunciation, and said they hated 'people like that with grammar.' Armado, Moth, and Costard entered; Armado told the scholars that the king had requested him to prepare 'the greatest show, or a show, or a show, or a show, or a show, or a show, or a show by fire' to entertain the princess and her guests. He asked Holofernes and Nathaniel for help in planning the show, and Holofernes suggested they would perform a show about the nine great gods. The young men discussed who would play the roles of the gods, with Holofernes saying he would play three roles for himself. They then stepped out to plan the show.",
+            "factscore": 0.7222222222222222,
+            "factscore_init_score": 0.7222222222222222,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        },
+        "8": {
+            "text": "Holofernes and Nathaniel were discussing Don Armado, a man whom Nathaniel had spoken to previously. They mocked his lack of intelligence, ridiculed his pronunciation, and said they hated 'people like that with grammar'. Armado, Moth, and Costard entered; Armado told the scholars that the king had requested him to prepare 'the greatest collection, or a performance, or a display, or a spectacle, or a show, or a display, or a display by fire' to entertain the princess and her guests. He asked Holofernes and Nathaniel for help in planning the display and Holofernes suggested they would perform a display about the nine great gods. The young men then discussed who would play the roles of the gods, with Holofernes saying he would play three roles for himself. They then stepped out to plan the display.",
+            "factscore": 0.6756756756756757,
+            "factscore_init_score": 0.6756756756756757,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "10": {
+            "text": "Holophernes and Nathaniel are discussing Don Armado, a man Nathaniel had talked to earlier. They mock his lack of intelligence, mock his pronunciation, and say they hate 'people like that with grammar'. Armado, Moth and Costard enter; Armado tells the scholars that the king has requested him to prepare 'the greatest project, or a performance, or a show, or a display, or a display by fire' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help in planning the show and Holophernes suggests they will perform a display about the nine great gods. The young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles himself. They then leave to plan the show.",
+            "factscore": 0.7567567567567568,
+            "factscore_init_score": 0.7567567567567568,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "13": {
+            "text": "Holophernes and Nathaniel are discussing Don Armado, a man whom Nathaniel had previously spoken with. They mock his lack of intelligence, ridicule his pronunciation and say they detest 'a person like that with grammar'.\n\nArmado, Moth and Costard enter; Armado tells the scholars that the king has requested him to prepare 'a great project, or a performance, or a show, or a programme, or a fire programme' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help in planning the programme and Holophernes suggests they perform a programme about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles for himself. They then leave to plan the programme.",
+            "factscore": 0.7096774193548387,
+            "factscore_init_score": 0.7096774193548387,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 31.0
+        },
+        "16": {
+            "text": "Holophernes and Nathaniel are discussing Don Armado, a man Nathaniel has previously spoken about. They mock his lack of intelligence, tease his pronunciation, and say they hate 'a person like that with grammar.'\n\nArmado, Moth, and Costard enter; Armado tells the scholars that the king has requested he prepare 'a grand project, or a performance, or a program, or a fireworks display' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help in planning the program, and Holophernes suggests they perform a program about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles for himself. They then leave to plan the program.",
+            "factscore": 0.75,
+            "factscore_init_score": 0.75,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 32.0
+        },
+        "20": {
+            "text": "Holophernes and Nathaniel are discussing Don Armado, a man Nathaniel has previously mentioned. They mock his lack of intelligence, ridicule his pronunciation, and say they hate 'a man like that with grammar.'\n\nArmado, Moth, and Costard enter; Armado announces to the scholars that the king has requested him to prepare 'a grand project, or a program, or a fireworks display' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help in planning the program, and Holophernes suggests they perform a program about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles for himself. They then depart to plan the program.",
+            "factscore": 0.7419354838709677,
+            "factscore_init_score": 0.7419354838709677,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 31.0
+        },
+        "25": {
+            "text": "Holophernes and Nathaniel are discussing Don Armado, a man whom Nathaniel had previously mentioned. They joke about his lack of intelligence, joke about his pronunciation, and say they hate 'a person like that with grammar.'\n\nArmado, Moth and Costard enter; Armado informs the scholars that the king has requested him to prepare 'a grand project, or a play, or a fireworks display' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help in planning the program and Holophernes suggests that they will perform a program about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying that he will play three roles for himself. They then leave to plan the program.",
+            "factscore": 0.75,
+            "factscore_init_score": 0.75,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 32.0
+        },
+        "30": {
+            "text": "Holophernes and Nathaniel are talking about Don Armado, a man whom Nathaniel has mentioned earlier. They are jesting about his lack of intelligence, jesting about his pronunciation, and saying they don't like 'a person like that with grammar.'\n\nArmado, Moth, and Costard enter; Armado informs the scholars that the king has requested him to prepare 'a great project, or a play, or a fireworks display' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help with the plan and Holophernes suggests that they will present a program about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles for himself. They then leave to plan the program.",
+            "factscore": 0.7567567567567568,
+            "factscore_init_score": 0.7567567567567568,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "40": {
+            "text": "Holophernes and Nathaniel were discussing the character Don Armado, a character whom Nathaniel had mentioned earlier. They were joking about his lack of intelligence, joking about his pronunciation and saying that they did not like 'a man like that with grammar'.\n\nArmado, Moth, and Costard entered; Armado announced to the scholars that the king had requested him to prepare 'a great project, or a play, or a fireworks display' to entertain the princess and her guests. He asked Holophernes and Nathaniel for help with the plan and Holophernes suggested that they should organize a program about the nine great gods.\n\nThe young men then discussed who would play the roles of the gods, with Holophernes saying that he would play three roles for himself. They then left to make plans for the program.",
+            "factscore": 0.8666666666666667,
+            "factscore_init_score": 0.8666666666666667,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 30.0
+        },
+        "50": {
+            "text": "Holophernes and Nathaniel are discussing the character of Don Armado, a character that Nathaniel had previously mentioned. They are joking about his lack of intelligence, mocking his pronunciation and saying they don't like 'a man like that with grammar.'\n\nArmado, Moth, and Costard enter; Armado informs the scholars that the king has requested him to prepare 'some great project, or a play, or a fireworks display' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help with the plan, and Holophernes suggests they organize a program about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles for himself. They then leave to discuss the plan.",
+            "factscore": 0.7894736842105263,
+            "factscore_init_score": 0.7894736842105263,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "65": {
+            "text": "Holophernes and Nathaniel were discussing the character Don Armado, a character that Nathaniel had mentioned earlier. They were joking about the character's lack of intelligence, mocking the character's speech and saying they didn't like 'a man like that with grammar'.\n\nArmado, Moth and Costard entered; Armado announced to the scholars that the king had requested him to prepare 'a grand project, or a play, or a fireworks display' to entertain the princess and her guests. He asked Holophernes and Nathaniel for help with the plan, and Holophernes suggested they organize a program about the nine great gods.\n\nThe young men then discussed who would play the gods, with Holophernes saying he would play three roles for himself. They then left to discuss the plan.",
+            "factscore": 0.8125,
+            "factscore_init_score": 0.8125,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 32.0
+        },
+        "80": {
+            "text": "Holophernes and Nathaniel are discussing the character Don Armado, a character Nathaniel had mentioned earlier. They are joking about the character's lack of intelligence, mocking his words and saying they don't like 'a man like that with grammar'.\n\nArmado, Moth and Costard enter; Armado informs the scholars that the king has requested him to prepare 'a grand project, or a play, or a show' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help with the plan, and Holophernes suggests they organize a program about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles for himself. They then leave to discuss the plan.",
+            "factscore": 0.7837837837837838,
+            "factscore_init_score": 0.7837837837837838,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "100": {
+            "text": "Holophernes and Nathaniel are discussing the character Don Armado, a character Nathaniel had previously mentioned. They are joking about the character's lack of intelligence, mocking and saying they don't like 'people like that with grammar'.\n\nArmado, Moth and Costard enter; Armado declares to the scholars that the king has requested him to prepare 'a great project, or a play, or a programme' to entertain the princess and her guests. He asks Holophernes and Nathaniel for help with the plan, and Holophernes suggests they organize a programme about the nine great gods.\n\nThe young men then discuss who will play the roles of the gods, with Holophernes saying he will play three roles for himself. They then leave to discuss the plan.",
+            "factscore": 0.7567567567567568,
+            "factscore_init_score": 0.7567567567567568,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        }
+    },
+    "My Antonia": {
+        "0": {
+            "text": "Jim and the Harling children feel the happiest and most content that spring just playing in the garden. They do not yet know that the summer will change everything. In the beginning of summer, some Italians come into town and set up a dancing pavilion in a vacant lot. They begin giving dancing lessons to children, and people start to gather and congregate around the lot. Now there is something for people to do and somewhere for them to socialize. Dancing becomes a city-wide craze, and every Saturday night there is a late-night dance. Jim goes all the time, as do many girls and boys from the country. At this point, Antonia, Lena, and Tiny become known as 'the hired girls' and are always at the dances too.",
+            "factscore": 1.0,
+            "factscore_init_score": 1.0,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 34.0
+        },
+        "2": {
+            "text": "Jim and the Harlings family felt the happiest and most content when they only played in the garden in the spring. They still didn't know that summer would change everything. When summer began, some Italians came to the town and set up a dance troupe on an empty lot. They started teaching dance lessons to the children, and the people began to focus and gather around the lot. Now there was something for everyone to do and a place to connect. Dance became a city-wide phenomenon, and every Saturday night, there was a late-night dance. Jim went every time, as did many girls and boys from the countryside. At this time, Antonia, Lena, and Tiny became the 'waitresses' and always participated in the dances.",
+            "factscore": 0.8536585365853658,
+            "factscore_init_score": 0.8536585365853658,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "4": {
+            "text": "Jim and the Harlings family felt the happiest and most content when they only played in the garden in the spring. They still didn't know that the summer would change everything. When summer began, some Italians arrived in the town and established a dance group on a vacant lot. They started teaching dance classes for children, and the locals began to gather and gather around the lot. Now, there's something for everyone to do and a place to connect. Dance became a city phenomenon, and every Saturday night, there was a late-night dance party. Jim went every time, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitresses' and always participated in the dance parties.",
+            "factscore": 0.8,
+            "factscore_init_score": 0.8,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 35.0
+        },
+        "6": {
+            "text": "Jim and the Harlings family felt the happiest and most content when they only played in the garden in the spring. They still didn't know that summer would change everything. When summer began, some Italians came to the town and established a dance group on an empty lot. They started teaching dance classes for children, and the local residents began to gather and congregate around the plot. Now, there was something for everyone to do and a place to connect. Dancing became the town's phenomenon, and every Saturday night, there was a late-night dance party. Jim attended each time, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitstaff' and always attended the dance parties.",
+            "factscore": 0.875,
+            "factscore_init_score": 0.875,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "8": {
+            "text": "Jim and the Harlings family felt the happiest and most content when they only played in the garden in the spring. They still hadn't realized that summer would change everything. When summer began, some Italian people came to the town and established a dance group on a vacant lot. They started teaching dance classes for children, and the locals began to gather and congregate around the land. Now, there's something for everyone to do and a place to connect. Dance became a phenomenon in the town, and every Saturday night, there was a late-night dance party. Jim attended every time, as well as many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became the 'waitstaff' and always participated in the dance parties.",
+            "factscore": 0.8611111111111112,
+            "factscore_init_score": 0.8611111111111112,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        },
+        "10": {
+            "text": "Jim and the Harlings family felt the happiest and most content when they only played in the garden in the spring. They had not yet realized that summer would change everything. When summer began, some Italian people came to the town and established a dance group on a vacant lot. They started teaching dance classes for children, and the locals began to gather and congregate around the land. Now, there was something for everyone to do and a place to connect. Dance became a phenomenon in the town, and every Saturday night, there was a late-night dance party. Jim attended each time, as well as many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became the 'waitstaff' and always participated in the dance parties.",
+            "factscore": 0.8717948717948718,
+            "factscore_init_score": 0.8717948717948718,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "13": {
+            "text": "Jim and the Harlings family felt the happiest and most relaxed when they only played in the garden in the spring. They hadn't realized that summer would change everything. As soon as summer began, some Italian people arrived in the town and established a dance troupe on a vacant lot. They started teaching dance classes for children, and the local residents began gathering and focusing around the land. Now, there was something for everyone to do and a place to connect. Dancing became a phenomenon in the town, and every Saturday night, there was a late-night dance party. Jim participated every time, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waiters' and always attended the dance parties.",
+            "factscore": 0.8048780487804879,
+            "factscore_init_score": 0.8048780487804879,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "16": {
+            "text": "When only playing in the garden in the spring, Jim and the Harlings family felt the happiest and most relaxed. They didn't realize that summer would change everything. As soon as summer began, some Italian people arrived in the town and established a dance troupe on a vacant lot. They started teaching dance classes for children, and the locals began to gather and pay attention around the lot. Now, there was something for people to do and a place to connect. Dancing became a phenomenon in the town, and every Saturday night, there was a late-night dance party. Jim participated every time, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitresses' and always attended the dance parties.",
+            "factscore": 0.8571428571428571,
+            "factscore_init_score": 0.8571428571428571,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        },
+        "20": {
+            "text": "When they only played in the garden in the spring, Jim and Harlings felt the happiest and most relaxed. They didn't realize that summer would change everything. As soon as summer began, some Italian people arrived in town and established a dance troupe on a vacant lot. They started teaching dance classes to children, and the locals began to focus and pay attention to the vacant lot. Now, there was something for the locals to do and a place to connect. Dancing became a phenomenon in the town, and every Saturday night, there was a dance party until the wee hours. Jim attended every time, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitresses' and always attended the dance parties.",
+            "factscore": 0.8378378378378378,
+            "factscore_init_score": 0.8378378378378378,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "25": {
+            "text": "When they only played in the garden during spring, Jim and Harlings felt the happiest and most carefree. They didn't realize that summer would change everything. As summer began, some Italians came to the town and set up a dance group on a vacant lot. They started teaching dance classes for children, and the locals began to pay attention and focus on the vacant lot. Now, there was something for the locals to do and a place to connect. Dance became a phenomenon in the town, and every Saturday night, there was a dance party until dawn. Jim always attended, as did many girls and boys from the countryside as well. At that time, Antonia, Lena, and Tiny became 'waiters' and always attended the dance parties.",
+            "factscore": 0.8444444444444444,
+            "factscore_init_score": 0.8444444444444444,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 45.0
+        },
+        "30": {
+            "text": "When they only played in the garden in the spring, Jim and Harlings felt the happiest and freest. They didn't realize that summer would change everything. As summer began, some Italian people came to the town and set up a dance group on an empty lot. They started teaching dance classes for children, and the locals began to take notice and focus on the empty lot. Now, there was something for the locals to do and a place to connect. Dance became a phenomenon in the town, and every Saturday night, there was a dance party until dawn. Jim always participated, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waiters' and always participated in the dance parties.",
+            "factscore": 0.8378378378378378,
+            "factscore_init_score": 0.8378378378378378,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "40": {
+            "text": "When they only played in the garden in the spring, Jim and Harlings felt the happiest and freest. They didn't realize that summer would change everything. As summer began, some Italian people came to the town and set up a dance group on a vacant plot of land. They started teaching dance classes for children, and the locals began to pay attention and focus on the vacant plot of land. Now, there was something for the locals to do and a place to connect. Dance became a phenomenon in the town, and every Saturday night, there was a dance party until dawn. Jim always attended, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitresses' and always attended the dance parties.",
+            "factscore": 0.868421052631579,
+            "factscore_init_score": 0.868421052631579,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 38.0
+        },
+        "50": {
+            "text": "When only playing in the garden in the spring, Jim and Harlings felt happiest and freest. They didn't realize that summer would change everything. When summer began, some Italian people came to the town and set up a dance hall on a vacant lot. They started teaching dance classes for children, and the locals began to take notice and focus on the vacant lot. Now, there was something for the locals to do and a place to connect. Dancing became a phenomenon in the town, and every Saturday night, there was a dance party that went on till dawn. Jim always participated, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitstaff' and always participated in the dance parties.",
+            "factscore": 0.8571428571428571,
+            "factscore_init_score": 0.8571428571428571,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 35.0
+        },
+        "65": {
+            "text": "When they only played in the garden in the spring, Jim and Harlings felt the happiest and freest. They didn't realize that summer would change everything. As summer began, some Italian people came to the town and set up a dance floor on a vacant lot. They started teaching dance classes for children, and the locals began to pay attention and observe the vacant lot. Now, there was something for the locals to do and a place to connect. Dancing became a phenomenon in the town, and every Saturday night, there was a dance party that lasted until dawn. Jim always participated, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitresses' and always participated in the dance parties.",
+            "factscore": 0.8055555555555556,
+            "factscore_init_score": 0.8055555555555556,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        },
+        "80": {
+            "text": "When only playing in the garden in the spring, Jim and Harlings felt the happiest and most free. They didn't realize that summer would change everything. When summer began, some Italian people came to the town and set up a dance floor on an empty lot. They started teaching dance classes for children, and the local residents began to take notice and observe the empty lot. Now, there was something for the local residents to do and a place to connect. Dancing became a phenomenon in the town, and every Saturday night, there was a long dance party that went until dawn. Jim always participated, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became 'waitresses' and always participated in the dance parties.",
+            "factscore": 0.8461538461538461,
+            "factscore_init_score": 0.8461538461538461,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "100": {
+            "text": "When they only played in the garden in the spring, Jim and Harlings felt happy and completely free. They didn't realize that summer would change everything. When summer began, some Italian people came to the town and set up a dance floor on an empty lot. They started teaching dance classes to the children, and the locals began to pay attention and observe the empty lot. Now, there was something for the locals to do and a place to connect. Dancing became a phenomenon in the town, and every Saturday night, there would be a dance party that lasted until dawn. Jim always attended, as did many girls and boys from the countryside. At that time, Antonia, Lena, and Tiny became the 'waitresses' and always attended the dance parties.",
+            "factscore": 0.8333333333333334,
+            "factscore_init_score": 0.8333333333333334,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 36.0
+        }
+    },
+    "Pride and Prejudice": {
+        "0": {
+            "text": "Elizabeth reads through Darcy's letter with a mixture of emotions. When she first reads Darcy's explanation of his conduct with Bingley and Jane, she dismisses his explanation of his concern about Jane's indifference as false, and believes he acted solely because of her family. However, when she begins reading his explanation of the dealings with Wickham, she begins to read more clearly. She soon begins to realize that she had not known anything of Wickham before the night when he told her of he and Darcy, and she wonders why she didn't realize his impropriety at speaking of such things to a stranger. As she continues to reread and think, she realizes that she had been 'blind, partial, prejudiced, absurd,' and that she believes Darcy's version of what happened. She then rereads the section about Jane and Bingley, and sees that she cannot deny the justice of his description of Jane's seeming indifference after all. After two hours of wandering in the park she returns home to be told that both Fitzwilliam and Darcy had come to say their good-byes",
+            "factscore": 0.8837209302325582,
+            "factscore_init_score": 0.8837209302325582,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 43.0
+        },
+        "2": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she first read his explanation for his behavior towards Bingley and Jane, she refused to accept his explanation for his concern over Jane's indifference as insincere, and believed he was acting out of concern for her family. However, as she began to read his explanation for his actions with Wickham, she started to read it more clearly. She quickly began to realize that she knew nothing about Wickham before the night he spoke to her about him and Darcy, and wondered why she hadn't noticed his inappropriateness when he spoke about such things to a stranger. As she continued to read and think about it, she realized that she had been 'blind, biased, prejudiced, and foolish', and believed Darcy's version of events to be true. Then, she read through the part about Jane and Bingley again, and saw that she couldn't deny the fairness of his explanation for Jane's indifference. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.7954545454545454,
+            "factscore_init_score": 0.7954545454545454,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 44.0
+        },
+        "4": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she first read his explanation for his behavior towards Bingley and Jane, she refused to accept his explanation for his interest in Jane's indifference as insincere, and believed that he was acting out of concern for her family. However, as she began to read his explanation for his actions towards Wickham, she started to read it more clearly. She quickly began to realize that she knew very little about Wickham before the night he talked to her about him and Darcy, and wondered why she hadn't noticed his inappropriateness when he spoke about it to a stranger. As she continued to read and think about it, she realized that she had been 'blind, biased, prejudiced, and foolish', and believed that Darcy's version of events was true. Then, she re-read the part about Jane and Bingley, and saw that she couldn't deny the fairness of his explanation for Jane's indifference. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.8260869565217391,
+            "factscore_init_score": 0.8260869565217391,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 46.0
+        },
+        "6": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she first read his explanation for his behavior towards Bingley and Jane, she refused to accept his explanation for his interest in Jane's indifference as insincere, and believed that he was acting out of concern for her family. However, as she began reading his explanation for his actions towards Wickham, she started reading it more clearly. She quickly began to realize that she knew very little about Wickham before the night he spoke to her about him and Darcy, and wondered why she hadn't recognized his inappropriateness when he spoke about it to a stranger. As she continued reading and thinking about it, she realized that she had been 'blind, biased, one-sided, and foolish,' and believed that Darcy's account of the events was true. Then she read again about Jane and Bingley, and saw that she couldn't refute the fairness of his explanation for Jane's indifference. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had arrived to bid her farewell.",
+            "factscore": 0.8125,
+            "factscore_init_score": 0.8125,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 48.0
+        },
+        "8": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she first read his reasons for his behavior towards Bingley and Jane, she refused to accept his explanation for his interest in Jane due to a lack of sincerity, and believed that he was acting out of concern for her family. However, as she began to read his explanation for his behavior towards Wickham, she started to read it more clearly. She quickly began to realize that she knew very little about Wickham before he told her about him and Darcy, and wondered why she hadn't recognized his inappropriateness when he spoke to a stranger. As she continued reading and thinking about it, she realized that she was 'blind, biased, one-sided, and foolish', and believed that Darcy's explanation for the event was correct. Then, she read again about Jane and Bingley, and saw that she couldn't deny the fairness of his explanation for Jane's indifference. After a two-hour walk in the park, she returned home and saw that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.825,
+            "factscore_init_score": 0.825,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "10": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she first read his reasons for his behavior towards Bingley and Jane, she refused to accept his reasons for his interest in Jane due to a lack of sincerity and believed he was acting out of concern for her family. However, as she began reading his reasons for his behavior towards Wickham, she started reading them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she hadn't noticed his inappropriateness when he spoke to a stranger. As she continued reading and thinking about it, she realized that she was 'blind, biased, one-sided, and ignorant', and believed Darcy's reasons for the incident were true. Then, she read again about Jane and Bingley, and saw that she couldn't deny the fairness of his reasons for Jane's indifference. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.85,
+            "factscore_init_score": 0.85,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "13": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she first read the reasons for his behavior towards Bingley and Jane, she refused to accept his reasons for his interest in Jane, considering them insincere and believing that he acted out of concern for her family. However, when she began reading the reasons for his behavior towards Wickham, she started reading them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she had never noticed the inconsistency in his words when speaking to strangers. As she continued reading and reflecting, she realized that she was 'blind, biased, one-sided, and insensitive,' and believed that Darcy's reasons were true. Then she re-read about Jane and Bingley, and saw that she couldn't refute the fairness of his reasons for Bingley's indifference towards Jane. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.8378378378378378,
+            "factscore_init_score": 0.8378378378378378,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 37.0
+        },
+        "16": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she first read the reasons behind his behavior towards Bingley and Jane, she refused to accept the reasons for his interest in Jane, considering them insincere and believing he acted out of concern for her family. However, as she began to read the reasons behind his behavior towards Wickham, she started to read them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she had never noticed the inconsistency in his words when speaking to strangers. As she continued to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking in compassion,' and believed Darcy's reasons were true. Then she read again about Jane and Bingley, and saw that she could not ignore the fairness of the reasons for Bingley's indifference towards Jane. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.8048780487804879,
+            "factscore_init_score": 0.8048780487804879,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "20": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. As she read about the reasons behind his actions towards Bingley and Jane, she initially refused to accept the reasons for his interest in Jane, considering them insincere and believing he acted out of concern for her family. However, as she began reading about the reasons behind his actions towards Wickham, she started to read them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she had never noticed the inconsistency in his words when speaking to strangers. As she continued to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking in compassion', and believed Darcy's reasons were true. Then, she re-read about Jane and Bingley, and saw that she could not ignore the fairness of the reasons for Bingley's indifference to Jane. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.825,
+            "factscore_init_score": 0.825,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "25": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she read about the reasons behind his actions towards Bingley and Jane, she initially refused to accept the reasons for his interest in Jane, considering them insincere and believing that he acted out of concern for her family. However, as she began reading about the reasons behind his actions towards Wickham, she started reading them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she had never noticed the inconsistencies in his words when talking to strangers. As she continued reading and reflecting, she realized that she was 'blind, biased, one-sided, and lacking in empathy,' and believed that Darcy's reasons were sincere. Then, she read again about Jane and Bingley, and saw that she could no longer ignore the fairness of the reasons for Bingley's indifference towards Jane. After a two-hour walk in the park, she returned home and saw that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.7692307692307693,
+            "factscore_init_score": 0.7692307692307693,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 39.0
+        },
+        "30": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. As she read about the reasons behind his actions towards Bingley and Jane, at first she refused to accept the reasons for his interest in Jane, considering them insincere and believing that he acted out of concern for her family. However, as she began reading about the reasons behind his actions towards Wickham, she started to read them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she had never noticed the inconsistency in his words when speaking to strangers. Continuing to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking in compassion,' and believed that Darcy's reasons were sincere. Then she read again about Jane and Bingley, and saw that she could not overlook the fairness of the reasons for Bingley's indifference to Jane. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had arrived to bid her farewell.",
+            "factscore": 0.8095238095238095,
+            "factscore_init_score": 0.8095238095238095,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        },
+        "40": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When reading about the reasons behind his actions regarding Bingley and Jane, she initially refused to accept the reasons for his interest in Jane, viewing them as insincere and believing he acted out of concern for her family. However, as she began reading about the reasons behind his actions regarding Wickham, she started reading them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she had never noticed the inconsistency in his words when talking to strangers. Continuing to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking in compassion,' and believed Darcy's reasons to be sincere. Then, she read again about Jane and Bingley, and saw that she couldn't forget the fairness of the reasons for Bingley's indifference to Jane. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had arrived to bid her farewell.",
+            "factscore": 0.825,
+            "factscore_init_score": 0.825,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "50": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. As she read about the reasons behind his actions in relation to Bingley and Jane, she initially refused to accept the reasons for his interest in Jane, viewing them as insincere and believing that he acted out of concern for her family. However, as she began to read about the reasons behind his actions in relation to Wickham, she started to read them more clearly. She quickly began to realize that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she hadn't noticed the inconsistency in his words when speaking to strangers. Continuing to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking in compassion,' and believed that Darcy's reasons were sincere. Then, she re-read about Jane and Bingley, and saw that she couldn't forget the fairness of the reasons for Bingley's indifference to Jane. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had arrived to bid her farewell.",
+            "factscore": 0.825,
+            "factscore_init_score": 0.825,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 40.0
+        },
+        "65": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. As she read about the reasons behind his actions in his relationship with Bingley and Jane, at first she refused to accept the reasons for his interest in Jane, considering them insignificant and believing he acted out of concern for her family. However, as she began reading about the reasons behind his actions in his relationship with Wickham, she started to read them more clearly. She quickly realized that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she hadn't noticed the inconsistency in his words when talking to strangers. Continuing to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking in compassion,' and believed Darcy's reasons were correct. Then she read again about Jane and Bingley, and saw that she couldn't forget the fairness of the reasons for Bingley's indifference to Jane. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.7804878048780488,
+            "factscore_init_score": 0.7804878048780488,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 41.0
+        },
+        "80": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she read about the reasons behind his actions in his relationship with Bingley and Jane, she initially refused to accept the reasons for his interest in Jane, considering them insignificant and believing that he acted out of concern for her family. However, when she began reading about the reasons behind his actions in his relationship with Wickham, she started to read them more clearly. She quickly realized that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she had never noticed the inconsistency in his words when speaking to strangers. Continuing to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking compassion,' and believed that Darcy's reasons were right. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had arrived to bid her farewell.",
+            "factscore": 0.84375,
+            "factscore_init_score": 0.84375,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 32.0
+        },
+        "100": {
+            "text": "Elizabeth read through Darcy's letter with a mix of emotions. When she read about the reasons behind his actions in his relationship with Bingley and Jane, she initially refused to accept the reasons for his interest in Jane, considering them insignificant and believing that he acted out of concern for her family. However, when she began reading about the reasons behind his actions in his relationship with Wickham, she started to read them more clearly. She quickly realized that she knew very little about Wickham before he spoke about him and Darcy, and wondered why she hadn't noticed the inconsistency in his words when speaking to strangers. Continuing to read and reflect, she realized that she was 'blind, biased, one-sided, and lacking in compassion,' and believed that Darcy's reasons were correct. After a two-hour walk in the park, she returned home and found that both Fitzwilliam and Darcy had come to bid her farewell.",
+            "factscore": 0.8181818181818182,
+            "factscore_init_score": 0.8181818181818182,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 33.0
+        }
+    }
+}

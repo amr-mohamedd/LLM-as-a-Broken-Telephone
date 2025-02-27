@@ -1,0 +1,13 @@
+bitsandbytes
+accelerate>=0.26.0
+torch
+tensorflow-cpu
+torchvision
+transformers
+nltk
+tqdm
+bert-score
+openai
+rank-bm25
+sentence-transformers
+factscore

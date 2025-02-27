@@ -1,0 +1,18 @@
+{
+    "Uefa fines FA and FAI after England and Republic of Ireland fans boo anthems - BBC Sport": {
+        "0": {
+            "text": "Uefa has fined the Football Association and the Football Association of Ireland after the national anthems were booed before the Republic of Ireland played England in the Nations League in September.\n\nEuropean football's governing body imposed a £10,500 fine (12,500 euros) on the Football Association (FA) following England fans' booing of Amhran na bhFiann at Aviva Stadium.\n\nThe Football Association of Ireland (FAI) received a fine of £8,400 (10,000 euros) after home supporters booed God Save The King.\n\nThe FA's punishment is greater because the England fans' booing was deemed a repeat offence.\n\nUefa imposed further punishment on the FAI, with a £7,800 (9,250 euros) fine for the lighting of flares and a £5,000 (6,000 euros) penalty for a pitch invasion by a spectator.\n\nThe FA was also fined £4,150 (5,000 euros) for a supporter coming on to the field of play.\n\nEngland won the September 7 match 2-0 with goals from Jack Grealish and Declan Rice.",
+            "factscore": 0.9375,
+            "factscore_init_score": 0.9375,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 48.0
+        },
+        "2": {
+            "text": "The UEFA has fined the Football Association and the Football Association of Ireland following the lack of applause from players during the national anthems before the match between the Republic of Ireland and England in September in the Nations League.\n\nThe European Football Union has fined the Football Association (FA) a fine of £10,500 (€12,500) following the lack of applause from English supporters during the Irish national anthem 'Amhran na bhFiann' during the game at the Aviva Stadium.\n\nThe Football Association of Ireland (FAI) received a fine of £8,400 (€10,000) after home fans jeered the British national anthem 'God Save The King'.\n\nThe FA's fine is higher as the lack of applause from English fans was considered a repeated offense.\n\nThe UEFA has further fined the FAI, with a fine of £7,800 (€9,250) for the ignition of pyrotechnics and a fine of £5,000 (€6,000) for a fan who invaded the pitch.\n\nThe FA was also fined £4,150 (€5,000) because a fan ran onto the pitch.\n\nEngland won the game on September 7 with a 2-0 victory, with goals from Jack Grealish and Declan Rice.",
+            "factscore": 0.8571428571428571,
+            "factscore_init_score": 0.8571428571428571,
+            "factscore_respond_ratio": 1.0,
+            "factscore_num_facts_per_response": 42.0
+        }
+    }
+}
