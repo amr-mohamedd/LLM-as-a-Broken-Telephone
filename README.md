@@ -82,13 +82,10 @@ note that in the multilingual multiplayer experiment, each translation chain sta
 ## Citation
 If you find this project useful, please consider citing:
 ```
-@misc{mohamed2025llmbrokentelephoneiterative,
-      title={LLM as a Broken Telephone: Iterative Generation Distorts Information}, 
-      author={Amr Mohamed and Mingmeng Geng and Michalis Vazirgiannis and Guokan Shang},
-      year={2025},
-      eprint={2502.20258},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2502.20258}, 
+@article{mohamed2025llm,
+  title={LLM as a Broken Telephone: Iterative Generation Distorts Information},
+  author={Mohamed, Amr and Geng, Mingmeng and Vazirgiannis, Michalis and Shang, Guokan},
+  journal={arXiv preprint arXiv:2502.20258},
+  year={2025}
 }
 ```
