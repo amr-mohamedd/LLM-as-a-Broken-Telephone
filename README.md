@@ -78,3 +78,17 @@ cd Scripts/Multilingual-multiplayer/Translation
 python translate.py --model_names "meta-llama/Llama-3.1-8B-Instruct" "mistralai/Mistral-7B-Instruct-v0.2" "google/gemma-2-9b-it" --dataset_name "scriptbase" --language_sequence fr de th zh --shuffle --default_file_path "all_data.csv"
 ```
 note that in the multilingual multiplayer experiment, each translation chain starts with English and ends with English, and the bridge languages are being shuffled from an iteration to the other.
+
+## Citation
+If you find this project useful, please consider citing:
+```
+@misc{mohamed2025llmbrokentelephoneiterative,
+      title={LLM as a Broken Telephone: Iterative Generation Distorts Information}, 
+      author={Amr Mohamed and Mingmeng Geng and Michalis Vazirgiannis and Guokan Shang},
+      year={2025},
+      eprint={2502.20258},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2502.20258}, 
+}
+```
