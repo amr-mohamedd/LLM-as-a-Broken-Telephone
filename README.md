@@ -1,6 +1,6 @@
 # LLM as a Broken Telephone: Iterative Generation Distorts Information
 
-![Experiments Illustration](./Results/Visualizations/experiments_illustration.svg)
+![Experiments Illustration](./Results/Visualizations/experiments_illustration.png)
 
 This repository contains the code and data accompanying the research paper "LLM as a Broken Telephone: Iterative Generation Distorts Information".  We investigate how Large Language Models (LLMs) distort information when used iteratively for tasks like translation and rephrasing, mirroring the "broken telephone" game where messages degrade through repeated transmission.
 
