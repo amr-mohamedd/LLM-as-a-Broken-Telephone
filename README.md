@@ -20,7 +20,7 @@ The repository is organized as follows:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/amr-mohamedd/LLM-as-a-Broken-Telephone.git
     cd LLM-as-a-Broken-Telephone
     ```
     
