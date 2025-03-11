@@ -57,21 +57,21 @@ The core experiments are implemented in the `Scripts/` directory.  Each experime
 
 ## Examples to Run the Code
 
-**1. Bilingual Self-loop (Llama-3 on news2024, English to French and back):**
+**1. Bilingual Self-loop (Llama-3.1 on news2024, English to French and back):**
 
 ```bash
 cd Scripts/Bilingual-selfloop/Translation
 python translate.py --model_name "meta-llama/Llama-3.1-8B-Instruct" --dataset_name "news2024" --cuda_device 0 --language_sequence en fr en --no-shuffle --default_file_path "all_data.csv"
 ```
 
-**2. Bilingual Two-player (Llama-3 and Mistral on booksum, English to French and back):**
+**2. Bilingual Two-player (Llama-3.1 and Mistral on booksum, English to French and back):**
 
 ```bash
 cd Scripts/Bilingual-twoplayer/Translation
 python translate.py --model_name "meta-llama/Llama-3.1-8B-Instruct" "mistralai/Mistral-7B-Instruct-v0.2" --dataset_name "booksum" --language_sequence en fr en --no-shuffle --default_file_path "all_data.csv"
 ```
 
-**3. Multilingual Multiplayer (Llama-3, Mistral, and Gemma on scriptbase, from English to French, German, Thai, and Chinese and back to English):**
+**3. Multilingual Multiplayer (Llama-3.1, Mistral, and Gemma on scriptbase, from English to French, German, Thai, and Chinese and back to English):**
 
 ```bash
 cd Scripts/Multilingual-multiplayer/Translation
